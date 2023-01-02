@@ -1,0 +1,4694 @@
+{
+  "ServerEndpoint": "http://146.190.223.30/",
+  "TwitterPublishers": {
+    "11348282": {
+      "TweetsCapturedCount": 94,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1597193803911557122": {
+          "twitterId": "1597193803911557122"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "18839785": {
+      "TweetsCapturedCount": 663,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1512020566873571332": {
+          "twitterId": "1512020566873571332"
+        },
+        "1585184182057463810": {
+          "twitterId": "1585184182057463810"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "32468665": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "34197952": {
+      "TweetsCapturedCount": 231,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1475660491997417477": {
+          "twitterId": "1475660491997417477"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "44196397": {
+      "TweetsCapturedCount": 1361,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1597193803911557122": {
+          "twitterId": "1597193803911557122"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "50393960": {
+      "TweetsCapturedCount": 2,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1597193803911557122": {
+          "twitterId": "1597193803911557122"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "67378160": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "71201743": {
+      "TweetsCapturedCount": 11,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1597193803911557122": {
+          "twitterId": "1597193803911557122"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "92708272": {
+      "TweetsCapturedCount": 0,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "207809313": {
+      "TweetsCapturedCount": 1,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "277434037": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1475660491997417477": {
+          "twitterId": "1475660491997417477"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "462902673": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "471741741": {
+      "TweetsCapturedCount": 96,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1597193803911557122": {
+          "twitterId": "1597193803911557122"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "540907498": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "620757286": {
+      "TweetsCapturedCount": 132,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": true,
+      "planPurchaseDate": "2022-10-22 01:08:33.091",
+      "subscriberIds": {
+        "1258333066738704384": {
+          "twitterId": "1258333066738704384"
+        },
+        "1585156488154480641": {
+          "twitterId": "1585156488154480641"
+        },
+        "1585314360947200000": {
+          "twitterId": "1585314360947200000"
+        },
+        "1585322155314941953": {
+          "twitterId": "1585322155314941953"
+        }
+      },
+      "twitterId": "620757286",
+      "typeOfPlanPurchased": "PlanTypeMonthly"
+    },
+    "843452088": {
+      "TweetsCapturedCount": 115,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": true,
+      "planPurchaseDate": "2022-10-20 20:55:16.147",
+      "subscriberIds": {
+        "125601623": {
+          "twitterId": "125601623"
+        },
+        "191757163": {
+          "twitterId": "191757163"
+        },
+        "407111001": {
+          "twitterId": "407111001"
+        },
+        "540907498": {
+          "twitterId": "540907498"
+        },
+        "833148002": {
+          "twitterId": "833148002"
+        },
+        "1014347000": {
+          "twitterId": "1014347000"
+        },
+        "1583302064": {
+          "twitterId": "1583302064"
+        },
+        "3163319534": {
+          "twitterId": "3163319534"
+        },
+        "3247568377": {
+          "twitterId": "3247568377"
+        },
+        "3256399111": {
+          "twitterId": "3256399111"
+        },
+        "3350532694": {
+          "twitterId": "3350532694"
+        },
+        "1106678452675973120": {
+          "twitterId": "1106678452675973120"
+        },
+        "1133671254228176897": {
+          "twitterId": "1133671254228176897"
+        },
+        "1166054061248077824": {
+          "twitterId": "1166054061248077824"
+        },
+        "1166416124956696576": {
+          "twitterId": "1166416124956696576"
+        },
+        "1230518195368292352": {
+          "twitterId": "1230518195368292352"
+        },
+        "1232170328366948352": {
+          "twitterId": "1232170328366948352"
+        },
+        "1232511950887751682": {
+          "twitterId": "1232511950887751682"
+        },
+        "1239874977035255808": {
+          "twitterId": "1239874977035255808"
+        },
+        "1241776769327173632": {
+          "twitterId": "1241776769327173632"
+        },
+        "1247136725744279553": {
+          "twitterId": "1247136725744279553"
+        },
+        "1253977195187494912": {
+          "twitterId": "1253977195187494912"
+        },
+        "1256916026433908736": {
+          "twitterId": "1256916026433908736"
+        },
+        "1258333066738704384": {
+          "twitterId": "1258333066738704384"
+        },
+        "1259358889226784769": {
+          "twitterId": "1259358889226784769"
+        },
+        "1262703217697153024": {
+          "twitterId": "1262703217697153024"
+        },
+        "1264155605448581120": {
+          "twitterId": "1264155605448581120"
+        },
+        "1271730612722753537": {
+          "twitterId": "1271730612722753537"
+        },
+        "1275389210879578112": {
+          "twitterId": "1275389210879578112"
+        },
+        "1284166739819851781": {
+          "twitterId": "1284166739819851781"
+        },
+        "1297759233052573702": {
+          "twitterId": "1297759233052573702"
+        },
+        "1297947693101142016": {
+          "twitterId": "1297947693101142016"
+        },
+        "1302469902012264448": {
+          "twitterId": "1302469902012264448"
+        },
+        "1310063780521410561": {
+          "twitterId": "1310063780521410561"
+        },
+        "1342491122623512579": {
+          "twitterId": "1342491122623512579"
+        },
+        "1370379104361484295": {
+          "twitterId": "1370379104361484295"
+        },
+        "1382299834841931779": {
+          "twitterId": "1382299834841931779"
+        },
+        "1390560189573595141": {
+          "twitterId": "1390560189573595141"
+        },
+        "1421775316586950661": {
+          "twitterId": "1421775316586950661"
+        },
+        "1475660491997417477": {
+          "twitterId": "1475660491997417477"
+        },
+        "1480212164061253634": {
+          "twitterId": "1480212164061253634"
+        },
+        "1482024109236453376": {
+          "twitterId": "1482024109236453376"
+        },
+        "1512020566873571332": {
+          "twitterId": "1512020566873571332"
+        },
+        "1534569893047070720": {
+          "twitterId": "1534569893047070720"
+        },
+        "1538001066939547648": {
+          "twitterId": "1538001066939547648"
+        },
+        "1541438264011132930": {
+          "twitterId": "1541438264011132930"
+        },
+        "1544364965250756608": {
+          "twitterId": "1544364965250756608"
+        },
+        "1546044605447434241": {
+          "twitterId": "1546044605447434241"
+        },
+        "1548722208180441093": {
+          "twitterId": "1548722208180441093"
+        },
+        "1553305025820368896": {
+          "twitterId": "1553305025820368896"
+        },
+        "1570720393568333825": {
+          "twitterId": "1570720393568333825"
+        },
+        "1577896344978657287": {
+          "twitterId": "1577896344978657287"
+        },
+        "1583091423842545666": {
+          "twitterId": "1583091423842545666"
+        },
+        "1583126038942392320": {
+          "twitterId": "1583126038942392320"
+        },
+        "1583261716594688000": {
+          "twitterId": "1583261716594688000"
+        },
+        "1583783370332737536": {
+          "twitterId": "1583783370332737536"
+        },
+        "1583803377875849216": {
+          "twitterId": "1583803377875849216"
+        },
+        "1583896162360139777": {
+          "twitterId": "1583896162360139777"
+        },
+        "1585146325359656961": {
+          "twitterId": "1585146325359656961"
+        },
+        "1585149821551534081": {
+          "twitterId": "1585149821551534081"
+        },
+        "1585156488154480641": {
+          "twitterId": "1585156488154480641"
+        },
+        "1585159041356951553": {
+          "twitterId": "1585159041356951553"
+        },
+        "1585161448539697152": {
+          "twitterId": "1585161448539697152"
+        },
+        "1585168381140877312": {
+          "twitterId": "1585168381140877312"
+        },
+        "1585176017684922368": {
+          "twitterId": "1585176017684922368"
+        },
+        "1585179433802952704": {
+          "twitterId": "1585179433802952704"
+        },
+        "1585184182057463810": {
+          "twitterId": "1585184182057463810"
+        },
+        "1585224988348788738": {
+          "twitterId": "1585224988348788738"
+        },
+        "1585270306393845760": {
+          "twitterId": "1585270306393845760"
+        },
+        "1585276868307013638": {
+          "twitterId": "1585276868307013638"
+        },
+        "1585281551667011584": {
+          "twitterId": "1585281551667011584"
+        },
+        "1585287442663628800": {
+          "twitterId": "1585287442663628800"
+        },
+        "1585288155648827392": {
+          "twitterId": "1585288155648827392"
+        },
+        "1585295675679379456": {
+          "twitterId": "1585295675679379456"
+        },
+        "1585298945881710592": {
+          "twitterId": "1585298945881710592"
+        },
+        "1585301147396427776": {
+          "twitterId": "1585301147396427776"
+        },
+        "1585302262875922434": {
+          "twitterId": "1585302262875922434"
+        },
+        "1585302626165563394": {
+          "twitterId": "1585302626165563394"
+        },
+        "1585314360947200000": {
+          "twitterId": "1585314360947200000"
+        },
+        "1585316060139786240": {
+          "twitterId": "1585316060139786240"
+        },
+        "1585323422392799232": {
+          "twitterId": "1585323422392799232"
+        },
+        "1585326333722492928": {
+          "twitterId": "1585326333722492928"
+        },
+        "1585471867959345152": {
+          "twitterId": "1585471867959345152"
+        },
+        "1585558006624030720": {
+          "twitterId": "1585558006624030720"
+        },
+        "1585560804186738689": {
+          "twitterId": "1585560804186738689"
+        },
+        "1585637482497945600": {
+          "twitterId": "1585637482497945600"
+        },
+        "1585701694792343552": {
+          "twitterId": "1585701694792343552"
+        },
+        "4855841788": {
+          "twitterId": "4855841788"
+        },
+        "4924566481": {
+          "twitterId": "4924566481"
+        },
+        "737205715517857793": {
+          "twitterId": "737205715517857793"
+        },
+        "802607261701050368": {
+          "twitterId": "802607261701050368"
+        },
+        "822657059313295360": {
+          "twitterId": "822657059313295360"
+        },
+        "845818452992512000": {
+          "twitterId": "845818452992512000"
+        },
+        "968564508624113664": {
+          "twitterId": "968564508624113664"
+        }
+      },
+      "twitterId": "843452088",
+      "typeOfPlanPurchased": "PlanTypeMonthly"
+    },
+    "1022605286": {
+      "TweetsCapturedCount": 25,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "79144294": {
+          "twitterId": "79144294"
+        },
+        "1377429320": {
+          "twitterId": "1377429320"
+        },
+        "2939091264": {
+          "twitterId": "2939091264"
+        },
+        "3289814527": {
+          "twitterId": "3289814527"
+        },
+        "3349790480": {
+          "twitterId": "3349790480"
+        },
+        "4146238454": {
+          "twitterId": "4146238454"
+        },
+        "1115969077703512065": {
+          "twitterId": "1115969077703512065"
+        },
+        "1301020570981556224": {
+          "twitterId": "1301020570981556224"
+        },
+        "1385594293734187008": {
+          "twitterId": "1385594293734187008"
+        },
+        "1438728622601170945": {
+          "twitterId": "1438728622601170945"
+        },
+        "822265406467543040": {
+          "twitterId": "822265406467543040"
+        },
+        "919453840834945024": {
+          "twitterId": "919453840834945024"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1447949844": {
+      "TweetsCapturedCount": 42,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1451773004": {
+      "TweetsCapturedCount": 37,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1597193803911557122": {
+          "twitterId": "1597193803911557122"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "2297532961": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "2449580952": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1259358889226784769": {
+          "twitterId": "1259358889226784769"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1113711398226415616": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1166054061248077824": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1239874977035255808": {
+      "TweetsCapturedCount": 221,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "620757286": {
+          "twitterId": "620757286"
+        },
+        "1453933839630286850": {
+          "twitterId": "1453933839630286850"
+        },
+        "1601114595871305728": {
+          "twitterId": "1601114595871305728"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1242804298246787072": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1247136725744279553": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1258333066738704384": {
+      "TweetsCapturedCount": 17,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": true,
+      "planPurchaseDate": "2022-10-14 16:17:49.649",
+      "subscriberIds": {
+        "1585322155314941953": {
+          "twitterId": "1585322155314941953"
+        },
+        "1587734966695526401": {
+          "twitterId": "1587734966695526401"
+        }
+      },
+      "twitterId": "1258333066738704384",
+      "typeOfPlanPurchased": "PlanTypeMonthly"
+    },
+    "1275389210879578112": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1275389210879578112": {
+          "twitterId": "1275389210879578112"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1333386621173919745": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "845818452992512000": {
+          "twitterId": "845818452992512000"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1382028961853558784": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1410078722070179847": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1451942378072252424": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1498968093305229314": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1499084006071345152": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1500301112674775044": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1500503374596546564": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1501894724092719104": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1534569893047070720": {
+      "TweetsCapturedCount": 2,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1588139335614070785": {
+          "twitterId": "1588139335614070785"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1537505398990807041": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1548611235691630592": {
+      "TweetsCapturedCount": 1,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1592779833888866307": {
+          "twitterId": "1592779833888866307"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1553305025820368896": {
+      "TweetsCapturedCount": 2,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1588139335614070785": {
+          "twitterId": "1588139335614070785"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583126038942392320": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1583126038942392320": {
+          "twitterId": "1583126038942392320"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583261716594688000": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": true,
+      "subscriberIds": {
+        "1587734966695526401": {
+          "twitterId": "1587734966695526401"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583803377875849216": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585218272345350145": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1588139335614070785": {
+          "twitterId": "1588139335614070785"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1590974879251443713": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1553305025820368896": {
+          "twitterId": "1553305025820368896"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1592779833888866307": {
+      "TweetsCapturedCount": 2,
+      "isAllowedToIncreaseReachRetweets": true,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1593644305146675202": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1592779833888866307": {
+          "twitterId": "1592779833888866307"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1597193803911557122": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "4643150654": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "4824087681": {
+      "TweetsCapturedCount": 55,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "743683300854661120": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "subscriberIds": {
+        "1592779833888866307": {
+          "twitterId": "1592779833888866307"
+        }
+      },
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "753891879192784896": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "822657059313295360": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": true,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "852111690615410688": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "852284782549635072": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "938002728898347008": {
+      "TweetsCapturedCount": 0,
+      "isAllowedToIncreaseReachRetweets": false,
+      "isAuthenticated": false,
+      "isPaidToIncreaseReach": false,
+      "planPurchaseDate": "",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    }
+  },
+  "TwitterSubscribers": {
+    "79144294": {
+      "accessToken": "79144294-VMKG8742Jmkz1L8Ui1vh1eo8Q3FtvKyLWfPrXqsKi",
+      "accessTokenSecret": "UDasTF6wzdfwLd2ZcWDRJeoDEwrmHoKP1BvP0yWn2w205",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "79144294",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "125601623": {
+      "accessToken": "125601623-JQSuB8lhpbsegUte2Tl7qMlinIJKgtZsQjejV6BY",
+      "accessTokenSecret": "CVgoaGbgVQb29ljCKhwPlt0mDGkLM1KDyWpHJSBexme0I",
+      "dateTimeAccessTokenCreated": "2022-10-26 18:34:46.991997",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 39,
+      "twitterId": "125601623",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "191757163": {
+      "accessToken": "191757163-LAS62efAys4hH23u9XKhlDKH5dKG8yrbm6VX9UBv",
+      "accessTokenSecret": "iUM5Hl8a8ZV4rSDqw7Rb0mNqgWS1tIafLKvXbh4rzsJKo",
+      "dateTimeAccessTokenCreated": "2022-10-27 17:46:12.144723",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 32,
+      "twitterId": "191757163",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "407111001": {
+      "accessToken": "407111001-DfYQC7uPQ6P686HlP06fYTCMbJ82Vv0TArzzpZsa",
+      "accessTokenSecret": "3OACHClCBnr2wYlWtFbOSktuQZItLTWohn2onC6yGjznn",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:45:21.760349",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 44,
+      "twitterId": "407111001",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "540907498": {
+      "accessToken": "540907498-4vjVyJVGQJu1tYnnkdy08wlfb6hxPyLVJ9NuRw51",
+      "accessTokenSecret": "SfzajkhUBPS55bmNFZ68dOjiPPtsF4LMkRwpta3JyTw1b",
+      "dateTimeAccessTokenCreated": "2022-10-26 13:53:00.995067",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "540907498": {
+          "isChecked": false,
+          "twitterId": "540907498"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 43,
+      "twitterId": "540907498",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "561939950": {
+      "accessToken": "561939950-7KkfJVUAvKkYZDemS4IZeVlNjgZKRy8Em2Nixgig",
+      "accessTokenSecret": "t0Y4Dnb0kG8tpNOOAB8C8NQdgdRAwX8Y2uiyhviTb9dnU",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "retweetsDoneCount": 0,
+      "twitterId": "561939950",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "620757286": {
+      "accessToken": "620757286-V6PMOZL2qV1lWqRCiSoY7OPeikBj4ZP45MBzuNWJ",
+      "accessTokenSecret": "sUZ6UneQ5FBVY0vNR1mYQrjeItsu0TW23uGfUnkr1jECC",
+      "dateTimeAccessTokenCreated": "2022-10-20 11:28:03.352673",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "32468665": {
+          "isChecked": false,
+          "twitterId": "32468665"
+        },
+        "207809313": {
+          "isChecked": false,
+          "twitterId": "207809313"
+        },
+        "843452088": {
+          "isChecked": false,
+          "twitterId": "843452088"
+        },
+        "1239874977035255808": {
+          "isChecked": true,
+          "twitterId": "1239874977035255808"
+        }
+      },
+      "retweetsDoneCount": 10,
+      "twitterId": "620757286",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "833148002": {
+      "accessToken": "833148002-ihxjLEcpfpuPHpv5LwOzIIIpNHdphLJZn5TglSjd",
+      "accessTokenSecret": "Qx5CSOyr2JtwgtYQLtTEFvRwCyZqOXmhpi0oiE17dTX9C",
+      "dateTimeAccessTokenCreated": "2022-10-22 17:12:12.244795",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 59,
+      "twitterId": "833148002",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "843452088": {
+      "accessToken": "843452088-7vf3CEk0m9diJ8xp6aJbqLgibwWEDpHrtO8EJ2fI",
+      "accessTokenSecret": "2p75FjYrZbmBTsxJnYLrwRINMpyvpiw2yoapKeorH0m9r",
+      "dateTimeAccessTokenCreated": "2022-10-20 06:10:03.364631",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": true,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "2022-10-20 20:55:16.147",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": false,
+          "twitterId": "843452088"
+        },
+        "1500301112674775044": {
+          "isChecked": false,
+          "twitterId": "1500301112674775044"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "843452088",
+      "typeOfPlanPurchased": "PlanTypeMonthly"
+    },
+    "1014347000": {
+      "accessToken": "1014347000-ZlPKhy2rJjIvJiWnK8yztPE6rLxiS0X1rlp66LH",
+      "accessTokenSecret": "GxrfXVvrQCrVYhSW7lICRAOQX8xkkfQXpX01bzEvybrUi",
+      "dateTimeAccessTokenCreated": "2022-10-26 19:11:58.987975",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 39,
+      "twitterId": "1014347000",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1022605286": {
+      "accessToken": "1022605286-PZtRId9nQ0msoS8zLjgbtfvi3jBkaNsU1GqDRgm",
+      "accessTokenSecret": "jukR8Wx4mDTlZfoJAEG4NKqP6934I5DKjpuEEaTgDfTDA",
+      "dateTimeAccessTokenCreated": "2022-10-28 12:18:54.341718",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "retweetsDoneCount": 0,
+      "twitterId": "1022605286",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1377429320": {
+      "accessToken": "1377429320-oclkrbYhl8w3vct4GeFoi5eHc5rFfbNhf5MVEsh",
+      "accessTokenSecret": "JSBveiBfxoT94RTqfbv36bR1S5f7XjemRyAXJwh3BvC2L",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1377429320",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1583302064": {
+      "accessToken": "1583302064-exvYnB0iTWHgOUgGz1BMJqX3fWmFiX6RTXCv8Gf",
+      "accessTokenSecret": "VeeUvUdNIXui4nCkA2cMFll4er8xWgr8cIo6yr5tE00z9",
+      "dateTimeAccessTokenCreated": "2022-10-26 12:25:09.130376",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1583302064",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "2939091264": {
+      "accessToken": "2939091264-msBL47NlQyqgagpJJioSEHIb4SZDlWHtMDUKYwe",
+      "accessTokenSecret": "7AVwLr8Fpvmomw72jWj52idHDyaxtTyyRgrJ0pzwVHhg5",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "2939091264",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "3163319534": {
+      "accessToken": "3163319534-7FmaBGVdBFuoDerQpvkQl2lC0XGY1ktJtumugQl",
+      "accessTokenSecret": "5ov6B2bPAVhQtsc3mH5eSVJWiKpRIsWaKz1sYZmzdghEc",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:38:04.979013",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 45,
+      "twitterId": "3163319534",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "3247568377": {
+      "accessToken": "3247568377-PrVU7zSaJerFk1238kLzWYNhUQaTywXmXKCWyuU",
+      "accessTokenSecret": "EhyjXMfrH2qM0Xc4d7cCywrlfYh0361ZBaTf95gxGoD23",
+      "dateTimeAccessTokenCreated": "2022-10-26 19:31:27.039749",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 39,
+      "twitterId": "3247568377",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "3256399111": {
+      "accessToken": "3256399111-TrdtDnwgNxTHtqiac6f8u2pZvYWEmo2QJ7qaRHx",
+      "accessTokenSecret": "BEaBSPgVoGgqXTraKAbAECtdrpPfHg7Qg7v35Rn9vb3SK",
+      "dateTimeAccessTokenCreated": "2022-10-27 11:05:54.608739",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 26,
+      "twitterId": "3256399111",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "3289814527": {
+      "accessToken": "3289814527-mxlp64olpgtPm5YGIJ2SCxDe0mvtdFdDo4oowIA",
+      "accessTokenSecret": "P9jBHD3j0KtB7ZOoblXXFpMOV3DmKEJxa65nZUqqth2Ky",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "3289814527",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "3349790480": {
+      "accessToken": "3349790480-xQKqDi8PR9kNvMnr2ahCx6ML1MTdEo7e1xREcO7",
+      "accessTokenSecret": "dwZCcVhH24Dlp6eY4FUg7uHijYw1cJntG5MlpKHI7WTQ2",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "3349790480",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "3350532694": {
+      "accessToken": "3350532694-gyQ7GZbdU7OI90zeYSjbVgj4Nt1Zg80M205YIm6",
+      "accessTokenSecret": "rKvbXbR6tPrJ73vHpsX6GzsNVqJZJIln8g3cg875KfyHq",
+      "dateTimeAccessTokenCreated": "2022-10-22 19:14:05.587284",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 61,
+      "twitterId": "3350532694",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "4146238454": {
+      "accessToken": "4146238454-3K6b41nTC6V6uEHcs3o1JZzyz2h9lZ16KrHDXfj",
+      "accessTokenSecret": "53xYwu2s9UzHqHVtKemqremBpoT9EQmJiXxhx0sgGMvEj",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "4146238454",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1069611125782732801": {
+      "accessToken": "1069611125782732801-IwzJ7CS3Zm6ptbQbIkYUeEGIbLMKEH",
+      "accessTokenSecret": "xBiQ5xbU320NS8fagmm8jZx8UU5g83MxXj64kEDkuv35M",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "retweetsDoneCount": 0,
+      "twitterId": "1069611125782732801",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1106678452675973120": {
+      "accessToken": "1106678452675973120-NUUCyNDulhAJo49Lh60YOWIkqWWFhY",
+      "accessTokenSecret": "EQ4BLzDt328DRnznBmKLPdN6VuFxNlfXO1pUUgEmdgho9",
+      "dateTimeAccessTokenCreated": "2022-10-20 17:05:09.059296",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 99,
+      "twitterId": "1106678452675973120",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1115969077703512065": {
+      "accessToken": "1115969077703512065-2MVvdepHXSt3ETbqnbFvJPMZma9v8e",
+      "accessTokenSecret": "Ll993aVkHIGSqgmlkzsXNJggoGw3IA8Cq0ooxNUECTw91",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 1,
+      "twitterId": "1115969077703512065",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1133671254228176897": {
+      "accessToken": "1133671254228176897-vJ17aTHUxBVOQYPNOvPMujznIlU5hx",
+      "accessTokenSecret": "cq5BisZO0IxbmU6xISzlHPLIoWM6Leq1Rco0I3YuesTjY",
+      "dateTimeAccessTokenCreated": "2022-10-26 19:57:04.813272",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 42,
+      "twitterId": "1133671254228176897",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1166054061248077824": {
+      "accessToken": "1166054061248077824-L5xFKJVtuIwXKO4I21OxYDjL2fEBaP",
+      "accessTokenSecret": "VJ9Ydn8b1gM6VSKm6pbHLFed2wpdyozt46TKSpLItM8Rg",
+      "dateTimeAccessTokenCreated": "2022-10-26 17:33:11.270761",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1166054061248077824": {
+          "isChecked": false,
+          "twitterId": "1166054061248077824"
+        }
+      },
+      "retweetsDoneCount": 47,
+      "twitterId": "1166054061248077824",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1166416124956696576": {
+      "accessToken": "1166416124956696576-CpsK5MivoTHVKrId5HTeN7XIltrS5G",
+      "accessTokenSecret": "WsuFMA7OiNAQJwqbF6yOR06MFKaH3GThOhEmyA3EzYIZ5",
+      "dateTimeAccessTokenCreated": "2022-10-22 21:04:44.198098",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 61,
+      "twitterId": "1166416124956696576",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1230518195368292352": {
+      "accessToken": "1230518195368292352-GVUjXUWjIJqtT7kcdEB0wBNViWBcjU",
+      "accessTokenSecret": "7BuOjm9QaB2dw5BGDzK6iihGclH1JAU5kO3BHF8y8ZC5R",
+      "dateTimeAccessTokenCreated": "2022-10-22 18:01:16.851855",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 20,
+      "twitterId": "1230518195368292352",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1232170328366948352": {
+      "accessToken": "1232170328366948352-Sp5PCRPGdkt8K7X7HuizwFviWSgDX2",
+      "accessTokenSecret": "BP9zj3NWgXZXG1MsrOGW1DG5sip4hqV9ZMCVav3ujh6l3",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:40:08.061534",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 51,
+      "twitterId": "1232170328366948352",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1232511950887751682": {
+      "accessToken": "1232511950887751682-Z9c16VYs5eZFkA545duhYjXEkleOkZ",
+      "accessTokenSecret": "zAp7YUNf8GWVzfh0JCQAtXaCqVL0o2zHM4FSdo5oyAGpq",
+      "dateTimeAccessTokenCreated": "2022-10-27 22:05:59.576438",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1232511950887751682",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1239874977035255808": {
+      "accessToken": "1239874977035255808-XF3rLtm9zbYQ3JrAY7nPv8ftFaSdrv",
+      "accessTokenSecret": "mKZGk4lHOEJPBDtAcwZUNk0Ql1Suazyl5eX7zBjMuzx3t",
+      "dateTimeAccessTokenCreated": "2022-10-22 17:53:56.800566",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 24,
+      "twitterId": "1239874977035255808",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1241776769327173632": {
+      "accessToken": "1241776769327173632-9gpFF1L3QlAyzjV14JAWqnCqWRF4zb",
+      "accessTokenSecret": "YpdYEDNMkbnD3B50iNcKvdDbBvoSLbIVGW3m6MCx5DRwX",
+      "dateTimeAccessTokenCreated": "2022-10-20 10:49:19.306382",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 98,
+      "twitterId": "1241776769327173632",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1244923405901553664": {
+      "accessToken": "1244923405901553664-l9ISG7XOMqAUe5LylU2QwfIewBCxI2",
+      "accessTokenSecret": "bI9GbIfRC23iRa1q5eoi8ggJeaTSqpZRpyfltjbNhhghI",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "retweetsDoneCount": 0,
+      "twitterId": "1244923405901553664",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1247136725744279553": {
+      "accessToken": "1247136725744279553-2rzGtBRECT1cWgxRjN6uKT0pKoeipD",
+      "accessTokenSecret": "3z8gTzgfgHPQBV8O2JafB9zUxKFKryWCN8aZju2MgrmyI",
+      "dateTimeAccessTokenCreated": "2022-10-20 21:21:57.925112",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 34,
+      "twitterId": "1247136725744279553",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1253977195187494912": {
+      "accessToken": "1253977195187494912-ZK1sNrUwgKI5rWBZO5f1mcMOzAMHc2",
+      "accessTokenSecret": "pZBnehN3iORH52T84S3nxHFpsvDtvz8Tb2ofSxBlA4rJ4",
+      "dateTimeAccessTokenCreated": "2022-10-27 03:21:05.580051",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 23,
+      "twitterId": "1253977195187494912",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1256916026433908736": {
+      "accessToken": "1256916026433908736-aflP4tXZNqRu9pM9aHPzQqPP6OaQnn",
+      "accessTokenSecret": "ygSeusFuQoavwQKyePVphNJtseabGp2ltblDmNJU6d6Bf",
+      "dateTimeAccessTokenCreated": "2022-10-21 12:06:37.168183",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 32,
+      "twitterId": "1256916026433908736",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1258333066738704384": {
+      "accessToken": "1258333066738704384-FHfZkEL8iQadDRUPrUVrL2RROriwKl",
+      "accessTokenSecret": "fPJp9RwaRoytRGK349gQ24KwdZZxqVAN4ge5runj7Osvj",
+      "dateTimeAccessTokenCreated": "",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": true,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "2022-10-14 16:17:49.649",
+      "publisherIds": {
+        "92708272": {
+          "isChecked": false,
+          "twitterId": "92708272"
+        },
+        "207809313": {
+          "isChecked": false,
+          "twitterId": "207809313"
+        },
+        "620757286": {
+          "isChecked": true,
+          "twitterId": "620757286"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1022605286": {
+          "isChecked": false,
+          "twitterId": "1022605286"
+        },
+        "1447949844": {
+          "isChecked": false,
+          "twitterId": "1447949844"
+        },
+        "1410078722070179847": {
+          "isChecked": false,
+          "twitterId": "1410078722070179847"
+        },
+        "1553305025820368896": {
+          "isChecked": false,
+          "twitterId": "1553305025820368896"
+        },
+        "4824087681": {
+          "isChecked": false,
+          "twitterId": "4824087681"
+        }
+      },
+      "retweetsDoneCount": 238,
+      "twitterId": "1258333066738704384",
+      "typeOfPlanPurchased": "PlanTypeMonthly"
+    },
+    "1259358889226784769": {
+      "accessToken": "1259358889226784769-TEMYcDJ5d1LdbPSw5NHDntxtrEDuBb",
+      "accessTokenSecret": "Bd84BYOZZecT3ZyE0MZGWeAbrfvepTitKFi4BOS1rpp7M",
+      "dateTimeAccessTokenCreated": "2022-10-20 20:23:04.316360",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "2449580952": {
+          "isChecked": true,
+          "twitterId": "2449580952"
+        }
+      },
+      "retweetsDoneCount": 42,
+      "twitterId": "1259358889226784769",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1262703217697153024": {
+      "accessToken": "1262703217697153024-W55i98XhHYQwybsW476s2TLimOpLUn",
+      "accessTokenSecret": "svPtoGIwbtpLuTJ4rRKn0QD9ob2TiIdHg7Z1dNBNTUjNh",
+      "dateTimeAccessTokenCreated": "2022-10-21 09:08:48.489780",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "852111690615410688": {
+          "isChecked": false,
+          "twitterId": "852111690615410688"
+        }
+      },
+      "retweetsDoneCount": 28,
+      "twitterId": "1262703217697153024",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1264155605448581120": {
+      "accessToken": "1264155605448581120-cAnxwFCBAZlDrc2H0ZhP6iXrZ5pZsN",
+      "accessTokenSecret": "RBS8owCkOfPvnskQ2jBd3mqPXw9IyjseCn6giB4wh5us8",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:34:00.835807",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 16,
+      "twitterId": "1264155605448581120",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1271730612722753537": {
+      "accessToken": "1271730612722753537-9GSpRnkNGOFEdDMHwXLqd3TIMtxdVe",
+      "accessTokenSecret": "yqdMFvI2kAkS99zdk3EM8mKl5R2KXx7H5PjtrnRiNY8vM",
+      "dateTimeAccessTokenCreated": "2022-10-20 14:39:55.559309",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 88,
+      "twitterId": "1271730612722753537",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1275389210879578112": {
+      "accessToken": "1275389210879578112-brFGzrKULNKnNncfGGcLaG1J0s8AnQ",
+      "accessTokenSecret": "UCw5qLhfu5mXj4970x3lbxK9IwuKgW2m0reY92du3IBg7",
+      "dateTimeAccessTokenCreated": "2022-10-26 18:31:52.523808",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1275389210879578112": {
+          "isChecked": true,
+          "twitterId": "1275389210879578112"
+        }
+      },
+      "retweetsDoneCount": 45,
+      "twitterId": "1275389210879578112",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1284166739819851781": {
+      "accessToken": "1284166739819851781-DPjjVP2lwmGOndMkwT7nRccw3gippc",
+      "accessTokenSecret": "HqQSzgpanfPXQx2I4dZMjIfC61yjpulgIltokNwKUyfCq",
+      "dateTimeAccessTokenCreated": "2022-10-21 12:11:58.371235",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 21,
+      "twitterId": "1284166739819851781",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1297759233052573702": {
+      "accessToken": "1297759233052573702-FTVbOhtjkvfWNkj7uBPuJlp08OhvSu",
+      "accessTokenSecret": "CGVJZsn1a5aceqSLfZQgkroFXDB7FtgvU4ct09Zqcn0Kd",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:27:53.701373",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 44,
+      "twitterId": "1297759233052573702",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1297947693101142016": {
+      "accessToken": "1297947693101142016-ZAfJ9lOLCmcfYaNEQ0jyAtir2XBI1o",
+      "accessTokenSecret": "gMIlYFsFNSnjlZZiDvtbFrox1zpXoLBFOLCNJAQtqz8oK",
+      "dateTimeAccessTokenCreated": "2022-10-26 23:50:53.527468",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 23,
+      "twitterId": "1297947693101142016",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1301020570981556224": {
+      "accessToken": "1301020570981556224-rIFqUEx6C9egf3nY2E9wZ98oRoCtuF",
+      "accessTokenSecret": "4A6beSdZmtpAAvweatqdlIBLfpK3kmo1Feg8XK73K8Pgm",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1301020570981556224",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1302469902012264448": {
+      "accessToken": "1302469902012264448-BESHHOBNqukAKuInWEg3pFVNLWR7N9",
+      "accessTokenSecret": "8bQZmSqlemnMvwAuwXH8azjWsBRTZgWOydRkts6Jt4NDp",
+      "dateTimeAccessTokenCreated": "2022-10-21 10:16:06.096386",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 41,
+      "twitterId": "1302469902012264448",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1310063780521410561": {
+      "accessToken": "1310063780521410561-2uuwiAogkHDyoS1cP7elTb1RcMloqh",
+      "accessTokenSecret": "EtSdEA7qifY7QjjdaiTwUM1JtaxaPTUKMe9oKihHqlkhp",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:54:16.847729",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 33,
+      "twitterId": "1310063780521410561",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1342491122623512579": {
+      "accessToken": "1342491122623512579-tZP89Eypudp3bsA08jYasJGwAK29F5",
+      "accessTokenSecret": "f0sfzNhrqo8O3Z5nBa24oDJge1F92yafEdv8LeJtq9UU0",
+      "dateTimeAccessTokenCreated": "2022-10-20 14:28:32.295040",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 68,
+      "twitterId": "1342491122623512579",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1370379104361484295": {
+      "accessToken": "1370379104361484295-FcQyXuw8HHC3eKQ2nQ5Em8qJHfYt7f",
+      "accessTokenSecret": "0hHC84FDIrWk8YaR1qIRqmfaLqVfyyUCA6PqGfGPTWfva",
+      "dateTimeAccessTokenCreated": "2022-10-22 19:05:27.123255",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 61,
+      "twitterId": "1370379104361484295",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1382028961853558784": {
+      "accessToken": "1382028961853558784-b0jEIBzghNs1lJkaYmJIUJUdYKItUd",
+      "accessTokenSecret": "1uudgTaLkmPkl6vwUU2iTp7XG1cQULNzxSzWXku3Ccflf",
+      "dateTimeAccessTokenCreated": "2022-10-26 13:47:59.091446",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": false,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 21,
+      "twitterId": "1382028961853558784",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1382299834841931779": {
+      "accessToken": "1382299834841931779-8eCawNIShKxZ9jOJfKQjIbcXasYQy9",
+      "accessTokenSecret": "QqPbuVboViW5SUg3pfz9vdmuA670s2oegWtZFU6NDIi8v",
+      "dateTimeAccessTokenCreated": "2022-10-26 18:48:19.116733",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 44,
+      "twitterId": "1382299834841931779",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1385594293734187008": {
+      "accessToken": "1385594293734187008-ZCXOYV9s9zxPsdDWDTlTkCzZeRckek",
+      "accessTokenSecret": "BRQ5R4puNG6N73aTylzHCOL8BgKMIAVnI5HdmioVjZ6rU",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1385594293734187008",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1390560189573595141": {
+      "accessToken": "1390560189573595141-s0pglpcQqUDWlBm2CwDAi6ScuWDJMd",
+      "accessTokenSecret": "UG6xw79E8iN56mZVC5Jfh47z12rwKDZsU8Yr372ZwLqAD",
+      "dateTimeAccessTokenCreated": "2022-10-20 16:26:55.836751",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 92,
+      "twitterId": "1390560189573595141",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1421775316586950661": {
+      "accessToken": "1421775316586950661-wbEKfNr2Qs5SNucLPUoCQgaPPgfsqS",
+      "accessTokenSecret": "dx3Rzsy45X4e4t34pwhKE861NIqrXKG0VC2AIqJ4E4Mke",
+      "dateTimeAccessTokenCreated": "2022-10-26 15:01:47.882593",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 42,
+      "twitterId": "1421775316586950661",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1438728622601170945": {
+      "accessToken": "1438728622601170945-QRcRuiOld5IbLHxQ4yLw9VcAixFR1B",
+      "accessTokenSecret": "bzgPAWt85xGwDx30MzLfcLEzB3Gwktlih6YG85gNgtqR2",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1438728622601170945",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1453933839630286850": {
+      "accessToken": "1453933839630286850-JJK1hCm68BSIW17IfCRbSBrY9QDLz4",
+      "accessTokenSecret": "Z0dqdvvNbJJuWaOBn50dRJo0i44rFRZEau6dTNGRdhnDH",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1239874977035255808": {
+          "isChecked": true,
+          "twitterId": "1239874977035255808"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1453933839630286850",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1475660491997417477": {
+      "accessToken": "1475660491997417477-INnMLNNzHyZ6i2CQM46c2lRf1AsxH1",
+      "accessTokenSecret": "zLW2A1uAIkAfUiKLG7wWnD32JCXXbVyFiBn5PFfkyHUlT",
+      "dateTimeAccessTokenCreated": "2022-10-23 11:23:52.031656",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "34197952": {
+          "isChecked": true,
+          "twitterId": "34197952"
+        },
+        "277434037": {
+          "isChecked": true,
+          "twitterId": "277434037"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 66,
+      "twitterId": "1475660491997417477",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1480212164061253634": {
+      "accessToken": "1480212164061253634-a56gKKlMjxefs1YNFOYA9Qcl6JlB7g",
+      "accessTokenSecret": "UfP8zwvOJhTmroetBybtG7xMgrf2D8c1EUpCsXjXOF7JP",
+      "dateTimeAccessTokenCreated": "2022-10-20 23:49:22.907310",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 27,
+      "twitterId": "1480212164061253634",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1482024109236453376": {
+      "accessToken": "1482024109236453376-bR2JtHYjfNER2IpJ8hdDGswajzP8mz",
+      "accessTokenSecret": "SUDyhrMObipmcfFHxNGdPqE1Wd9gwKde4ge0Zvt93m3Lf",
+      "dateTimeAccessTokenCreated": "2022-10-26 17:50:01.284857",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 5,
+      "twitterId": "1482024109236453376",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1512020566873571332": {
+      "accessToken": "1512020566873571332-33EjQY0QSZwXFPNXyfvE4nwisjYJ1Q",
+      "accessTokenSecret": "CYi4GHeXPQX7rZZItXAPPNjMCBiOaY1i8IIL7N9K6plW2",
+      "dateTimeAccessTokenCreated": "2022-10-20 20:55:13.637526",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "18839785": {
+          "isChecked": true,
+          "twitterId": "18839785"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 40,
+      "twitterId": "1512020566873571332",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1534569893047070720": {
+      "accessToken": "1534569893047070720-zh0ne9TofEioRYFagkhMO4F14BDaUS",
+      "accessTokenSecret": "aiSiaIYOwuDot76yFCJMSnRcnk0PP7NsFFSuU1swTYN3v",
+      "dateTimeAccessTokenCreated": "2022-10-20 16:05:09.951093",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 72,
+      "twitterId": "1534569893047070720",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1538001066939547648": {
+      "accessToken": "1538001066939547648-H9SdKDSWneGl91uSbPqttrAxzun0ji",
+      "accessTokenSecret": "Pf3zjTGloepBUr56aSZcA6o814ZGl9uiuEXJAG4cI8w9d",
+      "dateTimeAccessTokenCreated": "2022-10-31 21:43:00.620702",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "2297532961": {
+          "isChecked": false,
+          "twitterId": "2297532961"
+        },
+        "1242804298246787072": {
+          "isChecked": false,
+          "twitterId": "1242804298246787072"
+        }
+      },
+      "retweetsDoneCount": 6,
+      "twitterId": "1538001066939547648",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1541438264011132930": {
+      "accessToken": "1541438264011132930-Ib0ZbzUWgQJNtfUHfmcJJTGNYUxZF9",
+      "accessTokenSecret": "SPDEayNNULcz6hE7avEAeQU2ie0eSgjxEBzGjllhaRavU",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:49:02.632467",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 10,
+      "twitterId": "1541438264011132930",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1544364965250756608": {
+      "accessToken": "1544364965250756608-gMknXLN0cTN1X3bDy2XacyCVrkUBA6",
+      "accessTokenSecret": "csHYtlukL9UsuRRuj4vfjqAZdiUBqByNOuABr4r3yVUkL",
+      "dateTimeAccessTokenCreated": "2022-10-26 14:38:55.115143",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 42,
+      "twitterId": "1544364965250756608",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1546044605447434241": {
+      "accessToken": "1546044605447434241-38M1Pv9IT9QAl1qqi8qjfrrXZVlW5O",
+      "accessTokenSecret": "1Fb0fAetfzKsMHS0L1LnnIANVklMjRRcZLEYUPGRVzkZ2",
+      "dateTimeAccessTokenCreated": "2022-10-27 20:05:03.111969",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 11,
+      "twitterId": "1546044605447434241",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1548722208180441093": {
+      "accessToken": "1548722208180441093-7DABEpA0B9BPYoqQ3H2kDjMLktjTqz",
+      "accessTokenSecret": "5TvZkqqqxIVBDA0HRRSH33NyBmP18ih2f1Z4bXg32tyQ5",
+      "dateTimeAccessTokenCreated": "2022-10-21 09:43:55.429468",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1537505398990807041": {
+          "isChecked": false,
+          "twitterId": "1537505398990807041"
+        }
+      },
+      "retweetsDoneCount": 41,
+      "twitterId": "1548722208180441093",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1553305025820368896": {
+      "accessToken": "1553305025820368896-lbp4OjBkIV6BxzdgZhIP6YGn3q7h8I",
+      "accessTokenSecret": "IdSFjuLq8zVDzZMACnPr6cM2qW3YmRJiT1SV2jHOEs0CX",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:17:37.606889",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "207809313": {
+          "isChecked": false,
+          "twitterId": "207809313"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1590974879251443713": {
+          "isChecked": true,
+          "twitterId": "1590974879251443713"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1553305025820368896",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1570720393568333825": {
+      "accessToken": "1570720393568333825-fYE0HBHf9XTW6osuz5lYbAx0fEdaME",
+      "accessTokenSecret": "jNpozdiOKJPZIgHabEpW1AxfUom1AoPI0okclPzhdyAMJ",
+      "dateTimeAccessTokenCreated": "2022-10-21 11:50:07.749901",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 30,
+      "twitterId": "1570720393568333825",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1577896344978657287": {
+      "accessToken": "1577896344978657287-G7Dj7RzxlfGPYjRFVplXxsEWCdx684",
+      "accessTokenSecret": "23Q70nYrsY7wBFAubhPdB3MEPHCgSrdmrUOiMfUaPxW3E",
+      "dateTimeAccessTokenCreated": "2022-10-27 14:26:51.415054",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 13,
+      "twitterId": "1577896344978657287",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583091423842545666": {
+      "accessToken": "1583091423842545666-qqK8YWqJsTjzePeq6hYrPeOkewOXeM",
+      "accessTokenSecret": "ZT6gKZNWXKEURufPkDZi8fWpk77duQLtDVZ0XSZWQxXpw",
+      "dateTimeAccessTokenCreated": "2022-10-20 19:14:27.069147",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 29,
+      "twitterId": "1583091423842545666",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583126038942392320": {
+      "accessToken": "1583126038942392320-9z2inSgKdbDKMrhkngBJFzU0JzHTzS",
+      "accessTokenSecret": "axmD3Mzn1vNVQAdGgg8hhyTjWK61FxG2gYsJeJCc2u9wI",
+      "dateTimeAccessTokenCreated": "2022-10-20 21:32:04.454873",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1583126038942392320": {
+          "isChecked": true,
+          "twitterId": "1583126038942392320"
+        }
+      },
+      "retweetsDoneCount": 2,
+      "twitterId": "1583126038942392320",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583261716594688000": {
+      "accessToken": "1583261716594688000-s37FnVhXG2uvKA3EQlI5bCBUaLkR3G",
+      "accessTokenSecret": "MhL5dxWzlMxLN5mqS6UixrINZItNfNFaj3tGsr3UF8d2L",
+      "dateTimeAccessTokenCreated": "2022-10-21 10:29:10.418308",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 29,
+      "twitterId": "1583261716594688000",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583783370332737536": {
+      "accessToken": "1583783370332737536-pJtH3HjMiG3TXo7ncVfJQWntZnWXwj",
+      "accessTokenSecret": "XFyrkpy07jIcoCtthnwtEtJff9sFOvBR54jKAhbrvwyvq",
+      "dateTimeAccessTokenCreated": "2022-10-22 17:03:22.392992",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 73,
+      "twitterId": "1583783370332737536",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583803377875849216": {
+      "accessToken": "1583803377875849216-nMd4Wy6gWZojTlmDOHSjKYC4aA91kI",
+      "accessTokenSecret": "2RvTmicrMtUp4LlMlzTHOqhAVLRdVZJTWvTcn9ybemByQ",
+      "dateTimeAccessTokenCreated": "2022-10-22 18:27:46.017009",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 2,
+      "twitterId": "1583803377875849216",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1583896162360139777": {
+      "accessToken": "1583896162360139777-EScHZlanyytDQ59RiUMRe0px1RF4w0",
+      "accessTokenSecret": "lE6Z39RrqlhVsnRj3CwvnbdFPFff4MMWIIv2vf356ntCy",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:29:04.550498",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 43,
+      "twitterId": "1583896162360139777",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585146325359656961": {
+      "accessToken": "1585146325359656961-1P9KkXDe8vUZNxEXnSL93DMA4EG2CS",
+      "accessTokenSecret": "DxxG80pta5T2RIbcRVzU2wTjtKg0rJqkDdnPJ2E0zNOrD",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:25:40.743437",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 27,
+      "twitterId": "1585146325359656961",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585149821551534081": {
+      "accessToken": "1585149821551534081-lpPQ9nuQxTeFyhaqKyZSRHV6xcb8gm",
+      "accessTokenSecret": "0qFldjhLIvZLYzW87EyZvNeLzpm44X4W3P8cbdUbAqgka",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:45:53.989448",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "18839785": {
+          "isChecked": false,
+          "twitterId": "18839785"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 3,
+      "twitterId": "1585149821551534081",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585156488154480641": {
+      "accessToken": "1585156488154480641-pXEgDLJSOoeH75pwYPcWfsK3EAwz0c",
+      "accessTokenSecret": "cOmt2OIdEKQqFqn4LS3XUFfbxRH2IDgCUx4tgFi1UCRtF",
+      "dateTimeAccessTokenCreated": "2022-10-26 12:10:25.615104",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "620757286": {
+          "isChecked": true,
+          "twitterId": "620757286"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 55,
+      "twitterId": "1585156488154480641",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585159041356951553": {
+      "accessToken": "1585159041356951553-nBJQpNWR3YmyaoR6pYz276wqCXUhsZ",
+      "accessTokenSecret": "7L2kpV0gVOLCQi2pz9Ebx5v7tRoAVfUB7QjGFvKSflZ9I",
+      "dateTimeAccessTokenCreated": "2022-10-26 12:15:54.438976",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1585159041356951553",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585161448539697152": {
+      "accessToken": "1585161448539697152-Riq1nIpDGjs9Y2xL0rhweQUfAjgqEU",
+      "accessTokenSecret": "8DMzRpApePPKyg3D6Ky7PQQJbaA278c29l3ZeghTqA344",
+      "dateTimeAccessTokenCreated": "2022-10-26 12:25:41.206698",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1585161448539697152",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1585168381140877312": {
+      "accessToken": "1585168381140877312-sm2kD1HGFRtYl5IQDgC7D8oCmsB9CX",
+      "accessTokenSecret": "1qaq9iAaujOEEibliII99IrJK9NQN8rlcSqSO9umy1xaB",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:12:02.006822",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 37,
+      "twitterId": "1585168381140877312",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585176017684922368": {
+      "accessToken": "1585176017684922368-gGA6gq9Gnq9buYGC5b9OKd7ILwXAUS",
+      "accessTokenSecret": "m8oDEymvoSDKWtGudBAelDjJlJudpdDdgJVfHBHKI1XV9",
+      "dateTimeAccessTokenCreated": "2022-10-26 13:19:49.453313",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 7,
+      "twitterId": "1585176017684922368",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585179433802952704": {
+      "accessToken": "1585179433802952704-cE2z6Bq9f4IEIvsxxMzIjutUvX1XGH",
+      "accessTokenSecret": "PqY5lGt828WPJB9gJl6dGwiAhH5e4m8utb5BTOyXGbCKX",
+      "dateTimeAccessTokenCreated": "2022-10-26 13:39:53.782850",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": false,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 27,
+      "twitterId": "1585179433802952704",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585184182057463810": {
+      "accessToken": "1585184182057463810-9GflFsPRlhiMXtXwGGkNWLY5ftNXbh",
+      "accessTokenSecret": "EPISpvY5VhWtftU15Kk1dGwIbQgGmuIb2c41rIpyLO20I",
+      "dateTimeAccessTokenCreated": "2022-10-26 17:57:40.022064",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "18839785": {
+          "isChecked": true,
+          "twitterId": "18839785"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 33,
+      "twitterId": "1585184182057463810",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585218272345350145": {
+      "accessToken": "1585218272345350145-JNyXCPFlqCNKB3rfYnRYmfZflrQmDd",
+      "accessTokenSecret": "ivQaHD0wCY3Mv2HOcKZzeNXG6JrqP4DwdFn5vYvY6XOCV",
+      "dateTimeAccessTokenCreated": "2022-10-26 19:38:16.284617",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": false,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 8,
+      "twitterId": "1585218272345350145",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585224988348788738": {
+      "accessToken": "1585224988348788738-547QHV0dcS2IXKN0QDTbQwuWReqKob",
+      "accessTokenSecret": "E3jzaQz18sfaqD0qmMXJ6BJ2CPk8GlpEF8OFowfO3o8YN",
+      "dateTimeAccessTokenCreated": "2022-10-26 16:37:53.331677",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 33,
+      "twitterId": "1585224988348788738",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585270306393845760": {
+      "accessToken": "1585270306393845760-TUNn1XpPfwSjlVXmeX7I4jdWkLaoGS",
+      "accessTokenSecret": "3nKSnZEtin3Z7GPOmAXIbAOtEdrBDhh0I3YOW7gW19qKP",
+      "dateTimeAccessTokenCreated": "2022-10-26 19:33:29.629999",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 45,
+      "twitterId": "1585270306393845760",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585276868307013638": {
+      "accessToken": "1585276868307013638-WHLDV5U1ijiCXb7znP0q2KfKJBXLCa",
+      "accessTokenSecret": "zCDLUsACXpHOAsSRtuoMaXc2UBy1mW0ALCzo36HLiw0Jj",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:11:23.474260",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 32,
+      "twitterId": "1585276868307013638",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585281551667011584": {
+      "accessToken": "1585281551667011584-gM7nhJD1nustMawoeCn8iPv886ixLt",
+      "accessTokenSecret": "0nd0egW32vswxaFJxRsqv9ZtDZVVFdtKGZzVm9hR0SIex",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:18:13.182253",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 32,
+      "twitterId": "1585281551667011584",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585287442663628800": {
+      "accessToken": "1585287442663628800-pOpSL0GeMLbfY1IBPobu6Q5U5JHBKI",
+      "accessTokenSecret": "Fsxl9g2hvuMVNpdUTKQnAytnyloB4xjgbYknNjgSQJZUj",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:53:38.007935",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 16,
+      "twitterId": "1585287442663628800",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585288155648827392": {
+      "accessToken": "1585288155648827392-65E1CTiH3ci4r04xDaUqW0IKHu9Kxi",
+      "accessTokenSecret": "ameBrKFXltE3oRfSk3aAQQktvJi0qgCntglo5dV8Cd9kT",
+      "dateTimeAccessTokenCreated": "2022-10-26 20:43:01.590354",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 32,
+      "twitterId": "1585288155648827392",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585295675679379456": {
+      "accessToken": "1585295675679379456-Yqoy1DHSuwFk1fCVpQBPUSdkDKnVSE",
+      "accessTokenSecret": "YH4WhbZOdt1wakaKXJwcEQl4pUIDuauZQQSaJBUZRf9lR",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:21:10.961487",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 30,
+      "twitterId": "1585295675679379456",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585298945881710592": {
+      "accessToken": "1585298945881710592-Ri7p5A62c2VAZxaPitV5yuCyeeKPx1",
+      "accessTokenSecret": "MxTh35ksg2TKZyhVAYMkNEN1FIjfsH3a5gt3K8qBZtFnx",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:26:28.870083",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 29,
+      "twitterId": "1585298945881710592",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585301147396427776": {
+      "accessToken": "1585301147396427776-hFNDntUZmXVHJMsjpdOJUFxkvWPW6T",
+      "accessTokenSecret": "MeBiBjIphc5SSEfQSSyMHUsUIYmkdaQNJl3ZmJlHjTPHk",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:35:57.725530",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 16,
+      "twitterId": "1585301147396427776",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585302262875922434": {
+      "accessToken": "1585302262875922434-doSgmeZha5pz5arUg7aq7Ip7hyzgrE",
+      "accessTokenSecret": "BbRScshziGpO87w4fZZaTYmsqRUaIzxoLS5kfQNElE8rl",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:41:07.483570",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 16,
+      "twitterId": "1585302262875922434",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585302626165563394": {
+      "accessToken": "1585302626165563394-Mhrq04CA27SvV261UUaeMFCE6OPSVs",
+      "accessTokenSecret": "aqzkrHeC8u1I1BjcC5DA4WLnyOlV7eOJ2dyiWrCh73DTq",
+      "dateTimeAccessTokenCreated": "2022-10-26 21:44:13.736200",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 15,
+      "twitterId": "1585302626165563394",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585314360947200000": {
+      "accessToken": "1585314360947200000-Frv2WqzwFjaOVwdaOqJDGCfUKBxXyF",
+      "accessTokenSecret": "Ew9XXj6tgUfxfILCsOMC1XDP6UhRid4a4Jcnx8oRWdKOT",
+      "dateTimeAccessTokenCreated": "2022-10-26 22:35:36.476620",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "207809313": {
+          "isChecked": false,
+          "twitterId": "207809313"
+        },
+        "620757286": {
+          "isChecked": true,
+          "twitterId": "620757286"
+        },
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 50,
+      "twitterId": "1585314360947200000",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585316060139786240": {
+      "accessToken": "1585316060139786240-Nb93j77HqiZWE4cSyhOWQAVoDxq3vu",
+      "accessTokenSecret": "EiJQSxf0tbPvTSETX2lUQ51OUlHns4k1t3FtU8kgSDPGh",
+      "dateTimeAccessTokenCreated": "2022-10-26 22:39:08.146485",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 9,
+      "twitterId": "1585316060139786240",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585322155314941953": {
+      "accessToken": "1585322155314941953-plLz8FUHlg7qCreAoG87BGVjZWQPyu",
+      "accessTokenSecret": "5P2l9p8NQB9ELMJsoUiwUTbc83V49sz85gnitv2uq01to",
+      "dateTimeAccessTokenCreated": "2022-10-26 23:03:30.385122",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "620757286": {
+          "isChecked": true,
+          "twitterId": "620757286"
+        },
+        "843452088": {
+          "isChecked": false,
+          "twitterId": "843452088"
+        },
+        "1022605286": {
+          "isChecked": false,
+          "twitterId": "1022605286"
+        },
+        "1258333066738704384": {
+          "isChecked": true,
+          "twitterId": "1258333066738704384"
+        }
+      },
+      "retweetsDoneCount": 6,
+      "twitterId": "1585322155314941953",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1585323422392799232": {
+      "accessToken": "1585323422392799232-I0eaXBzjaB3zjdy5bzfXnHvtoHMqgJ",
+      "accessTokenSecret": "Mp0Tme0bf9Pf6MF6ikqKcAVuMoyRQvEbgyis9eTqJ8qdh",
+      "dateTimeAccessTokenCreated": "2022-10-27 10:51:02.743002",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 15,
+      "twitterId": "1585323422392799232",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585326333722492928": {
+      "accessToken": "1585326333722492928-y1UBWyRZnW1C5yDexm78KMK0DZ7xzP",
+      "accessTokenSecret": "ZQW2wTNA6dCqJtNUMEQhTIWubFHQIc50pXny63ziFiLmk",
+      "dateTimeAccessTokenCreated": "2022-10-27 07:53:04.311226",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 21,
+      "twitterId": "1585326333722492928",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585471867959345152": {
+      "accessToken": "1585471867959345152-k3gjL17JmKA0t2xRDJDPbA5xsYSCYK",
+      "accessTokenSecret": "8IfVXywqOMMrmgZ0ceyYVuagEbyvvQNUSlyLo7rVEqPfL",
+      "dateTimeAccessTokenCreated": "2022-10-27 08:59:22.527286",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 8,
+      "twitterId": "1585471867959345152",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585558006624030720": {
+      "accessToken": "1585558006624030720-1IjCvvuYUi4np4b7VRJZ3lIjEYavEY",
+      "accessTokenSecret": "lDzB91HN4yGeQJNGHCRvnnhW5DUTQDjwoxpz6D2314aVy",
+      "dateTimeAccessTokenCreated": "2022-10-27 14:37:34.264009",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 13,
+      "twitterId": "1585558006624030720",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585560804186738689": {
+      "accessToken": "1585560804186738689-NTv53MbRdyyGPhezra5V6ZtXzhW5zp",
+      "accessTokenSecret": "P8Lp3c2q0uQvs9C46larNmr6EwwUWon238UelHf0jZ7jZ",
+      "dateTimeAccessTokenCreated": "2022-10-27 14:48:11.133853",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 12,
+      "twitterId": "1585560804186738689",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585637482497945600": {
+      "accessToken": "1585637482497945600-hKoG7QpsM8Ufd6GJu2wcOzHBYCsETa",
+      "accessTokenSecret": "dfSPTYsSprth8x27rkJ4Vhtfp9qws6KM8mSGhkWpuSyrz",
+      "dateTimeAccessTokenCreated": "2022-10-27 19:54:42.129840",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 11,
+      "twitterId": "1585637482497945600",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1585701694792343552": {
+      "accessToken": "1585701694792343552-XSHorv9B0ybIm8StH8qahW6IErL3Qt",
+      "accessTokenSecret": "zwiZEHrhzfhWrNEE3525T0vwymxpZwoZrTmbmJPn2VeU1",
+      "dateTimeAccessTokenCreated": "2022-10-28 00:21:42.053268",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 11,
+      "twitterId": "1585701694792343552",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1587734966695526401": {
+      "accessToken": "1587734966695526401-brCDOZ8xYssZ5FOSNI6GrmaidZTpj8",
+      "accessTokenSecret": "9P5YWNt30TuFxzmwCQWPmHgWfA7nigeAoMfMzkMeFR8Tr",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1258333066738704384": {
+          "isChecked": true,
+          "twitterId": "1258333066738704384"
+        },
+        "1583261716594688000": {
+          "isChecked": true,
+          "twitterId": "1583261716594688000"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1587734966695526401",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1588139335614070785": {
+      "accessToken": "1588139335614070785-IRTLcwz4okrvSy0epEEShLqB5mAgy9",
+      "accessTokenSecret": "mqTEtI1WEGL5A8J6SRLN6UIXtKJ8ItgAqPdgEfBsjqmtt",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1534569893047070720": {
+          "isChecked": true,
+          "twitterId": "1534569893047070720"
+        },
+        "1553305025820368896": {
+          "isChecked": true,
+          "twitterId": "1553305025820368896"
+        },
+        "1585218272345350145": {
+          "isChecked": true,
+          "twitterId": "1585218272345350145"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1588139335614070785",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1592779833888866307": {
+      "accessToken": "1592779833888866307-nVF02OsGN3SZLILTjFkxjj9wk6jgA7",
+      "accessTokenSecret": "LiuAhmGx4Zn8Get1Yy7BS97G7IAT6kR7d326tU0dGoUus",
+      "dateTimeAccessTokenCreated": "2022-11-16 13:20:17.949676",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1548611235691630592": {
+          "isChecked": true,
+          "twitterId": "1548611235691630592"
+        },
+        "1592779833888866307": {
+          "isChecked": false,
+          "twitterId": "1592779833888866307"
+        },
+        "1593644305146675202": {
+          "isChecked": true,
+          "twitterId": "1593644305146675202"
+        },
+        "743683300854661120": {
+          "isChecked": true,
+          "twitterId": "743683300854661120"
+        }
+      },
+      "retweetsDoneCount": 2,
+      "twitterId": "1592779833888866307",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "1597193803911557122": {
+      "accessToken": "1597193803911557122-32QJsS8Dq0vrZYNn2dV3Hr8JoS5kN8",
+      "accessTokenSecret": "M2ZyMkWPpT2cWj7IDnMcrsUeu76oQ7qbBtf4wRKUGaUtW",
+      "dateTimeAccessTokenCreated": "2022-11-28 19:37:47.546411",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "11348282": {
+          "isChecked": true,
+          "twitterId": "11348282"
+        },
+        "44196397": {
+          "isChecked": true,
+          "twitterId": "44196397"
+        },
+        "50393960": {
+          "isChecked": true,
+          "twitterId": "50393960"
+        },
+        "71201743": {
+          "isChecked": true,
+          "twitterId": "71201743"
+        },
+        "471741741": {
+          "isChecked": true,
+          "twitterId": "471741741"
+        },
+        "1451773004": {
+          "isChecked": true,
+          "twitterId": "1451773004"
+        }
+      },
+      "retweetsDoneCount": 10,
+      "twitterId": "1597193803911557122",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "1601114595871305728": {
+      "accessToken": "1601114595871305728-2M0lqhLBwbJqMkm3c1dcPPKcn5fUpR",
+      "accessTokenSecret": "AJ0qS6Jaoxnd8Km4GJNYBRpXKWwbYoMWvwUQWFlQE5VLb",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1239874977035255808": {
+          "isChecked": true,
+          "twitterId": "1239874977035255808"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "1601114595871305728",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "4855841788": {
+      "accessToken": "4855841788-I90trjpTcfTY1qCFOCpdes8eoopuKVc759ZmD94",
+      "accessTokenSecret": "FNl9ShdPCSHiW9uj4RaAJgwrrc6aAxXP8t5F9s9Vr2ufn",
+      "dateTimeAccessTokenCreated": "2022-10-26 16:43:04.053233",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 35,
+      "twitterId": "4855841788",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "4924566481": {
+      "accessToken": "4924566481-Us6gstjtB4O1X9MemeAm59xJ3blhePwH8S7sRYV",
+      "accessTokenSecret": "E26U7yzQqPAPfngaXAMFsdIvTA26ZB7H0UG4tXfGETYac",
+      "dateTimeAccessTokenCreated": "2022-10-26 18:32:56.136358",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 44,
+      "twitterId": "4924566481",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "737205715517857793": {
+      "accessToken": "737205715517857793-57Bxun49C9SPuHAxGjQcB1sZXadJrzo",
+      "accessTokenSecret": "jsr4ExiV6hztFZzo7k3etHGpBiqGweVPgLjDpKQ5v9VAq",
+      "dateTimeAccessTokenCreated": "2022-10-22 18:35:10.891224",
+      "isAllowedAutomaticRetweets": false,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 17,
+      "twitterId": "737205715517857793",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "802607261701050368": {
+      "accessToken": "802607261701050368-jXrwdG2KFjyVo80wUcdvIJR4DWGkCEp",
+      "accessTokenSecret": "7jbp0KEg1H7Lhd5nWoKElQcfoePjjJNPEPgK5V94ZXVyc",
+      "dateTimeAccessTokenCreated": "2022-10-26 16:14:52.139855",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 25,
+      "twitterId": "802607261701050368",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "822265406467543040": {
+      "accessToken": "822265406467543040-L69PwX7RcyriguebEl66KhuAPhHjk9c",
+      "accessTokenSecret": "HmQaF04Ab8X2A8XvpEpMwofxs8cYQp0ow946Nf4wH3BFk",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "822265406467543040",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "822657059313295360": {
+      "accessToken": "822657059313295360-GB9cX9oysuPvGFxIqqWqMGonwwfTkZL",
+      "accessTokenSecret": "x70Z6EP8eXELWo4M4Z8J4csE6C6kfbG6X7l7LQyNMJjBe",
+      "dateTimeAccessTokenCreated": "2022-10-22 19:28:05.706806",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 48,
+      "twitterId": "822657059313295360",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "845818452992512000": {
+      "accessToken": "845818452992512000-4Bsla3dUrVruEwcrqk3goDFuMOzjR7M",
+      "accessTokenSecret": "WpcvzxaZIYp3g5juueTRYZmwCxwBZmJLcJ23dSxdAsGPh",
+      "dateTimeAccessTokenCreated": "2022-10-21 10:04:32.711251",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        },
+        "1333386621173919745": {
+          "isChecked": true,
+          "twitterId": "1333386621173919745"
+        },
+        "1451942378072252424": {
+          "isChecked": false,
+          "twitterId": "1451942378072252424"
+        }
+      },
+      "retweetsDoneCount": 30,
+      "twitterId": "845818452992512000",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "877537027994079233": {
+      "accessToken": "877537027994079233-JpQp7ueRjENxcLR7ea0Zsylx2nkr0oH",
+      "accessTokenSecret": "NXhuZzUyY8CxFXG4SdSXkwd44QUvbSp3IbJYAQMQf5wFg",
+      "dateTimeAccessTokenCreated": "2022-10-26 11:09:10.727901",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "877537027994079233",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    },
+    "919453840834945024": {
+      "accessToken": "919453840834945024-ftZpS4U7oO1VXnqPp30mNO5VaV97GU0",
+      "accessTokenSecret": "Q9O8zAhCrWrQSAZyTDSQpu46CLUoP9gkTyi3Hk2WmuV23",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": false,
+      "isLoginByURL": true,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "1022605286": {
+          "isChecked": true,
+          "twitterId": "1022605286"
+        }
+      },
+      "retweetsDoneCount": 0,
+      "twitterId": "919453840834945024",
+      "typeOfPlanPurchased": "planTypeNone"
+    },
+    "968564508624113664": {
+      "accessToken": "968564508624113664-ELXWFBHEa4IxnqIH57zFUXshXSuUIQE",
+      "accessTokenSecret": "xbMNdOFUUYKfDCr4GTrjiklKrnqW7E9of0fcUJGMuW9e4",
+      "dateTimeAccessTokenCreated": "2022-10-26 16:58:59.462848",
+      "isAllowedAutomaticRetweets": true,
+      "isLoginByApp": true,
+      "isLoginByURL": false,
+      "isPaidForDoingRetweet": false,
+      "name": "",
+      "phoneNo": 0,
+      "planPurchaseDate": "",
+      "publisherIds": {
+        "843452088": {
+          "isChecked": true,
+          "twitterId": "843452088"
+        }
+      },
+      "retweetsDoneCount": 43,
+      "twitterId": "968564508624113664",
+      "typeOfPlanPurchased": "PlanTypeNone"
+    }
+  },
+  "Users": {
+    "05bh1Ct1BDNbVXbePEHV2SfPwri1": {
+      "andrtokenid": "d9dFwCGMRd62-7hnUlPXGy:APA91bHKhbiRAq66D3oTTd3BkyZeRYaXti41Jri9oKA5tS8KeaFyhGDSUudkjYX6Pvudvt4hdoTPNmo1_lWM9XQwmgexgFzFAaTt2XCXteiz1WH2I52IlT3lnQAy1qVMGROKGUxBA6KZ",
+      "twitterLoggedInIds": {
+        "3256399111": {
+          "dateLoggedIn": "2022-10-27 11:05:55.000372",
+          "delegateTwitterId": "",
+          "twitterId": "3256399111"
+        }
+      }
+    },
+    "1c3604TijDevwmuRArsjjCKvlkJ2": {
+      "andrtokenid": "d_HlSMSkTbyxD05xjMmbAP:APA91bEbAHW6u1RjzjOx3rvlsNGrs-hH9geROIhxAC-Z4Q1OzcNLi90nTk6z6YyZVc32UYn6MukbOgKvUmKeFBkXBsS1kqMpbPzeq2rrfXQTVDKfmj6tEOSZUYWhNfLw9doV9lm44Ivk",
+      "twitterLoggedInIds": {
+        "1585302626165563394": {
+          "dateLoggedIn": "2022-10-26 21:44:14.150089",
+          "delegateTwitterId": "",
+          "twitterId": "1585302626165563394"
+        }
+      }
+    },
+    "2DZxM4ctGgPH8rLWeRvgrAwuzSz1": {
+      "andrtokenid": "c-JJ6tJDTGWc7Og0ntqr67:APA91bEZG2IUN7Sn1qq6AuYpKuEiHOm1lbtljsiaVaUtRPy2qPfjZM5DYU43W6O7hVQGkObBf7tFUtDm2oeIxmuVWqmSO-SI0L6aHvuFje-djjl4FibvqRcuuzuU5XjBD8honswGGCoE",
+      "twitterLoggedInIds": {
+        "1382299834841931779": {
+          "dateLoggedIn": "2022-10-26 18:48:19.500561",
+          "delegateTwitterId": "",
+          "twitterId": "1382299834841931779"
+        }
+      }
+    },
+    "2U8gNJj7SNWUHENKn9EPavp8QCF2": {
+      "andrtokenid": "d5D6b0dNSZezyYz4_zVfZf:APA91bGYcASfOyb_KvUlXVQYlODfUp3cbW_nNMTYv2MBvWeqU3V6jGbyRroLVMPIS3M7tZKRe2rEjZHKJ8XyusPtMehEspwlz0FMfBcPZrnBRDo0ApL7QamQwa6-zS9E_-j_kptfRdpT",
+      "twitterLoggedInIds": {
+        "1390560189573595141": {
+          "dateLoggedIn": "2022-10-20 16:27:02.285671",
+          "delegateTwitterId": "",
+          "twitterId": "1390560189573595141"
+        }
+      }
+    },
+    "2XOneulMOjP9HwGRJ31tVAxKyWS2": {
+      "andrtokenid": "fSHVUOxoSX6LGKFjyIOrGv:APA91bFKGFqHRMPPgRkKUKhNwuNJQVqJjLEFy1p8rEki4Aja5N90e95SP2qOnMInaQ8Az_pmhArjIrZLyvV_tUHHgJda-D3lntxjwEYWqBtMA6oBqL9A5L-iofAIkaTMgysDmPctathz",
+      "twitterLoggedInIds": {
+        "1475660491997417477": {
+          "dateLoggedIn": "2022-10-23 11:23:52.384857",
+          "delegateTwitterId": "",
+          "twitterId": "1475660491997417477"
+        }
+      }
+    },
+    "3yjuGhLTdzLdjnluerTM6YlVT3B2": {
+      "andrtokenid": "e-CYMJjZTwWe8vnNfmvID7:APA91bEMkD4XIZGffNhTrcnlRxjEh5gnYad1MTSvaUsZ54t8EJcMmUjK2-A0NA-1a2uyN97puIB7mdMjRG7nHVBpwx9jwMrGV4TC6gNb3-ioGzDUgVuqjNRKAA_T9pa9FQmkdmZ2Zs_v",
+      "twitterLoggedInIds": {
+        "1592779833888866307": {
+          "dateLoggedIn": "2022-11-18 21:54:54.610122",
+          "delegateTwitterId": "",
+          "twitterId": "1592779833888866307"
+        }
+      }
+    },
+    "4Y8uMbcX22ZWhkcs7vuFtGhv9r92": {
+      "andrtokenid": "ft8BpOrBQ3-Bi5JhD_j7-p:APA91bHpg3su33qPdUupLbPjXIwlPzvdr74i3fZ0LYG9LDlvlsS0CBR-QHUQ6iwrrUTYbuKZxx7WqthavcEUsHB-m8FvGlI35X64MIws-9HM0mxwqtpuRBHej-W5DrGSWbTfsX3UIwCE",
+      "twitterLoggedInIds": {
+        "1014347000": {
+          "dateLoggedIn": "2022-10-26 19:11:59.340431",
+          "delegateTwitterId": "",
+          "twitterId": "1014347000"
+        }
+      }
+    },
+    "4gYqtNeP9COJVWeAJR5kbVdtHXN2": {
+      "andrtokenid": "dwTz5qHlQ5-G7MtCMj5s2Z:APA91bE1ow9fdIcT7jb-N7yU1E62W8AOVdu15LqZFX1yPG7K_ToOwnijYJwoGevyp5WKBKvTDBHfyDShfCEVXZYnYYuoljwowumOIe51daLmAunevgwD1a0FsOWp5JN9rYMAC1b0UOTy",
+      "twitterLoggedInIds": {
+        "1585302262875922434": {
+          "dateLoggedIn": "2022-10-26 21:41:07.975641",
+          "delegateTwitterId": "",
+          "twitterId": "1585302262875922434"
+        }
+      }
+    },
+    "56NdhoW64nZu93sJpsyRc8lNA3z1": {
+      "andrtokenid": "fDzg08YUSdmd0bxmRjI7zR:APA91bF-WWc2HNLijoL7TqAA24aJxDpHX4m10xDLqBrBWLmBrr8xw0LETRG3AgX9UkINnfXBBSkyAXAEd99uonKQMnFY-h_LKwp2nJIFWO3UcMdPx_kFvB7X-Ripx2kAWQ7AdkTrfyT0",
+      "twitterLoggedInIds": {
+        "1585270306393845760": {
+          "dateLoggedIn": "2022-10-26 19:33:30.050641",
+          "delegateTwitterId": "",
+          "twitterId": "1585270306393845760"
+        }
+      }
+    },
+    "5YykNEMTTBaFRNcTOsmdO0gyW5B2": {
+      "andrtokenid": "f4SUqL6hRXGqloVEPw-yNp:APA91bFRQEotPAjOr2Wz-tXHcGCDVl9u731Iwq0xNj2hXZcUv9967Yx1BmjEsITtsoiQHJa3YnaJq3VOGbe4jZdbljR6mWi_0v7BeJs6ty_80XyvrbIUQNkFOVFhLuRpgvqw8cY0lB-k",
+      "twitterLoggedInIds": {
+        "1241776769327173632": {
+          "dateLoggedIn": "2022-10-20 10:49:19.736303",
+          "delegateTwitterId": "",
+          "twitterId": "1241776769327173632"
+        }
+      }
+    },
+    "6a0ga2Mq2wPrcKO2nl1HW2KxCeL2": {
+      "andrtokenid": "fUM4G669TpuzApIYyX-7Lq:APA91bHZqpy752rb92d9-IsZs90jDj0_EOqozrEjZqE2ssIYPC4J2lOjAQfCYnsgAfP3bf1rjnjHWs-H6xhgXAIpIg2IBImc3VvmS_NookMcEtcyt_dllAqPrq7Cq5z8fBDdPZlPZaP3",
+      "twitterLoggedInIds": {
+        "1259358889226784769": {
+          "dateLoggedIn": "2022-10-20 20:23:12.192566",
+          "delegateTwitterId": "",
+          "twitterId": "1259358889226784769"
+        }
+      }
+    },
+    "8SnkP2HnHCgwpKiB9OSFewnlY2n1": {
+      "andrtokenid": "dzklLt2WQ2eauGR4Ou_aHC:APA91bEZF80pNfCNpNW7fhOI4K2zlF-q57ivPtEgHtaUlYg04diiocytN4mHpw6v-x5Cad0dA3fuCN8leyV4PkfiiJub0Pf11av56uRZ4gchIenxyT1ww2kOrDNwDpRueZFcW7ajqQ-A",
+      "twitterLoggedInIds": {
+        "843452088": {
+          "dateLoggedIn": "2022-10-28 12:10:21.275678",
+          "delegateTwitterId": "",
+          "twitterId": "843452088"
+        },
+        "1534569893047070720": {
+          "dateLoggedIn": "2022-10-20 16:06:12.470047",
+          "delegateTwitterId": "",
+          "twitterId": "1534569893047070720"
+        },
+        "1585161448539697152": {
+          "dateLoggedIn": "2022-10-26 12:31:35.085435",
+          "delegateTwitterId": "",
+          "twitterId": "1585161448539697152"
+        },
+        "1585323422392799232": {
+          "dateLoggedIn": "2022-10-27 10:51:03.265947",
+          "delegateTwitterId": "",
+          "twitterId": "1585323422392799232"
+        },
+        "1585326333722492928": {
+          "dateLoggedIn": "2022-10-27 08:04:26.678301",
+          "delegateTwitterId": "",
+          "twitterId": "1585326333722492928"
+        },
+        "1585558006624030720": {
+          "dateLoggedIn": "2022-10-27 14:37:34.591574",
+          "delegateTwitterId": "",
+          "twitterId": "1585558006624030720"
+        },
+        "1585560804186738689": {
+          "dateLoggedIn": "2022-10-27 14:48:11.443849",
+          "delegateTwitterId": "",
+          "twitterId": "1585560804186738689"
+        }
+      }
+    },
+    "8qPhD07crAe1euGu3r23uhyetfC2": {
+      "andrtokenid": "dvs346MsQyqmYwXsyHDS6u:APA91bGTAOBNgvXFHeHnguDVyBOpXuXAYsD0-JN0HiyoGTU0pXiqckz4C6O6apfSxiUYIN9ipUkK5FiDDHE7LxMd1pYaICQh73sopnOQ2yqt-SR74pK0KZ4CUr20xGSaPQqMyOy2O3iU",
+      "twitterLoggedInIds": {
+        "1546044605447434241": {
+          "dateLoggedIn": "2022-10-27 20:05:03.506678",
+          "delegateTwitterId": "",
+          "twitterId": "1546044605447434241"
+        }
+      }
+    },
+    "91RPjF2FioSkKiEpsOLyQ8NsTmG2": {
+      "andrtokenid": "e_ebMmKLQdSUdVHE4atffn:APA91bGSRiin9mYpIFaYM5vfW7iccMhrw9br_3i7lide1jjTqcYlwhcbvxvNolH6dHdGfXhLQjbLEy0Fo1379TYDCy9Huk0EEDIc0Bbb1bu2Ty9OUEl6bAzTu1HFNYl2y3psZC1ZYYlM",
+      "twitterLoggedInIds": {
+        "125601623": {
+          "dateLoggedIn": "2022-10-26 19:18:52.530305",
+          "delegateTwitterId": "",
+          "twitterId": "125601623"
+        }
+      }
+    },
+    "9GBH982QmjRjqFdO0zx6Xbf1CMG2": {
+      "andrtokenid": "d2LUfa1BT6ObLrw8UzayX7:APA91bEVwE5GvDQVYzADG6MUs_A6j8vpUR1U6OatOLH8iZMxIBsTQFz_YRH2rU8PAm2jljNSmr7mWC0HFtEIHthZx2QwUWytkoDSdHsn-qyjOt36DehOlQRRPilbdqIU80Td1q_7VLLx"
+    },
+    "9IwwgYu1Z1PbAvfdCEdhdcRfV4v1": {
+      "andrtokenid": "eyGFe6VEQh2YCw264uEQxE:APA91bHmgl0jG0XBIruzC6hNYQvk1R5U8IXrDhAxvY85XhWfENx30PCmVtPVuDbFqlkNQNqPZONzuovT4TSIiUOMMNSsuW-Rq6yBACXFpDsnDlA2yURKPSoWh1Q6cdQN6jlM2z64tlEf",
+      "twitterLoggedInIds": {
+        "1342491122623512579": {
+          "dateLoggedIn": "2022-10-20 14:28:42.389460",
+          "delegateTwitterId": "",
+          "twitterId": "1342491122623512579"
+        }
+      }
+    },
+    "9LmHuC9ILKMkjuthNgQYbHv2FDw2": {
+      "andrtokenid": "ci5AxjgIRi6ZO5t_ouffeh:APA91bGG_MAF5acTjvS9JwPfGn-JSwoe76dtatwIOFUCbTeO10wsu7gFW74x57GqXJWwL47AxfbPq73nNHAK66MDgEW-2RR22bkgrfmc9LqOrW1WJGn7KNWTBU2BMlGeuye1iC4zDbiF",
+      "twitterLoggedInIds": {
+        "1544364965250756608": {
+          "dateLoggedIn": "2022-10-26 14:38:55.492715",
+          "delegateTwitterId": "",
+          "twitterId": "1544364965250756608"
+        }
+      }
+    },
+    "9s1T3eQJN6QeyVoc3MSpNoGdPor2": {
+      "andrtokenid": "eyGFe6VEQh2YCw264uEQxE:APA91bHmgl0jG0XBIruzC6hNYQvk1R5U8IXrDhAxvY85XhWfENx30PCmVtPVuDbFqlkNQNqPZONzuovT4TSIiUOMMNSsuW-Rq6yBACXFpDsnDlA2yURKPSoWh1Q6cdQN6jlM2z64tlEf",
+      "twitterLoggedInIds": {
+        "1342491122623512579": {
+          "dateLoggedIn": "2022-10-27 09:09:57.261089",
+          "delegateTwitterId": "",
+          "twitterId": "1342491122623512579"
+        }
+      }
+    },
+    "AFnKNIcw7MP0PNn5EnGz6yt6TMx2": {
+      "andrtokenid": "f6sy0zckQHKZokDBjDz2zO:APA91bGL9jTo432zHMwNRqg6qtNp4Fx69kSO8PrquGd9Z4lx4uPM431CYY9OCeG5p5UUlODu0Uzcls3hJRKBEpAVK7ELdUt9mymlfxeZOOawRokWgbChQsUXXtQU1DAZqIX8BrVFfARB",
+      "twitterLoggedInIds": {
+        "407111001": {
+          "dateLoggedIn": "2022-10-26 21:45:22.117908",
+          "delegateTwitterId": "",
+          "twitterId": "407111001"
+        }
+      }
+    },
+    "AsDxI90WFPfKuLfJqvocXvGXTcT2": {
+      "andrtokenid": "cpYAkYDtRfex3lvLR0_EsV:APA91bHpnt0Yf7a48rpPP55NqSY1RvXZ7NMa6VfGm5LTJQqbR8cHoIJ9Cs3KeAjAlPdCDIFBoikHPdryIAuC0jrwfnH1h9w9wkPCvCPHWXx7YZxm6W9JTgylynGy8ZccVcCuku2FU2mO",
+      "twitterLoggedInIds": {
+        "3350532694": {
+          "dateLoggedIn": "2022-10-22 19:14:06.923007",
+          "delegateTwitterId": "",
+          "twitterId": "3350532694"
+        }
+      }
+    },
+    "BVSbMAAam3YShJvUy8midXpc82G2": {
+      "andrtokenid": "fZSkmMtKRxq0C0_NvTBH5i:APA91bF9aRR-SvrByv8t7DfKb6jyytk1wIljZ9hhwlwIbARcH1L-ilrso0HGDqU1IWaN4iZ23n68fKbJ7JAE5ICWtndFOH1RhVmdkuxWnz7-wcdIajgp8TOvDas9LXZApLMf7vzG_-Na",
+      "twitterLoggedInIds": {
+        "1585637482497945600": {
+          "dateLoggedIn": "2022-10-27 19:54:51.552996",
+          "delegateTwitterId": "",
+          "twitterId": "1585637482497945600"
+        }
+      }
+    },
+    "BirLTcLTGcM6Xk4EEqDdrAcLN1u2": {
+      "andrtokenid": "dB1BuoQRTfOkDSXZyGwCMo:APA91bF1DGEyvsX_Hlg3eGT-PtzTpDUh-yRol0U7guFbIVBiW34TcEc9zy6XrvWvCKafylXnTlr6koyQn1wUkaysCtv-3wbzcgC_yckhz3wTia_9KBuToEyiPEgKW8IphUIWIksZ6IH9",
+      "twitterLoggedInIds": {
+        "1256916026433908736": {
+          "dateLoggedIn": "2022-10-21 12:06:37.530675",
+          "delegateTwitterId": "",
+          "twitterId": "1256916026433908736"
+        }
+      }
+    },
+    "Bs0efI22dvbVTbQhudv2ME4bcv83": {
+      "andrtokenid": "fb_LcO-PTn6UscKn8m3yqR:APA91bH7bFNVzsPBOlpHYkRVywaefR0Zek2bB3pXfVspMUEYKm-sf67-IP1Ctu98ogM3yH9pmN6hhq7if85b2lrZIsJcBN3NXADSG_Hgk2aCRGBAYXB-tOJP0xntsMX11gZs3t98BlwJ",
+      "twitterLoggedInIds": {
+        "1585295675679379456": {
+          "dateLoggedIn": "2022-10-26 21:21:29.257886",
+          "delegateTwitterId": "",
+          "twitterId": "1585295675679379456"
+        }
+      }
+    },
+    "Cg7eWrc89RXxXmLwe3846RbQ54p2": {
+      "andrtokenid": "fm5-GnmLRD2eiDvaGK34lW:APA91bEIJHZvYLrw9V4cBgtTYv2xPOFg0G67ZPQULBa53WFyS6BYrUdhVGRiNx_h5qBTrWSUkaq1mzHBSCYWiaW8vT2hkRwjdhBB7aaSh_luN7Ib8DcPB1SYMdv3lnqnCUrvK3sZzXQF"
+    },
+    "Derq9QkuPFNOEGYWadH2oS9dGJD3": {
+      "andrtokenid": "dg3I0QssS3CpMH9ooz67zE:APA91bHiDHD4paCOpcmoGVbj4atTYj4SwREiaoJbgVmA4EPv0NE47JmaOXtUJhs5WJft0eHhY8bHt0dxzDYvDu6UMKl8lqrrzgPirPSjagaFSpFMqknvaC_79z9NOFlMyZ6w3XRdZkO_",
+      "twitterLoggedInIds": {
+        "1253977195187494912": {
+          "dateLoggedIn": "2022-10-27 03:24:09.659176",
+          "delegateTwitterId": "",
+          "twitterId": "1253977195187494912"
+        }
+      }
+    },
+    "DrXlkxCuB2Pi8wedi30QrtdgDwQ2": {
+      "andrtokenid": "c0SxisiXQBGQHeTQdFjBwN:APA91bErtH6aLUJ9vyiRAsj5Uz3S_hCjdbDGIhgDhGzxx_B2Sq_0ESzHerx_v_Z-H_wUF2_SdC8neJprsD3ewzysNaTxU7gknbe5K7lqRDPlOinq4BbSCzff7fvhLNht__kaaeQ-g_jh",
+      "twitterLoggedInIds": {
+        "1585471867959345152": {
+          "dateLoggedIn": "2022-10-27 08:59:30.456031",
+          "delegateTwitterId": "",
+          "twitterId": "1585471867959345152"
+        }
+      }
+    },
+    "Dv3kP39BOXRv0esa8dgSzNgW80s1": {
+      "andrtokenid": "f1EVR-KFRzaZtQHrFHvJ7z:APA91bFvZQ_q5FUR80C-1jHEsfiVwD2lUfcafTDIfTe9S1kUzg3eruXHIJ6s_ASTSRiDCq07qCVGnHoiR5gWsTpnOm1gs7PQ5TpV7fBajcaV-d0stHMOui3Z03AUPu5tEsR465_J6Bj-",
+      "twitterLoggedInIds": {
+        "620757286": {
+          "dateLoggedIn": "2022-10-20 14:54:25.584696",
+          "delegateTwitterId": "",
+          "twitterId": "620757286"
+        },
+        "1258333066738704384": {
+          "dateLoggedIn": "2022-10-20 10:05:46.185249",
+          "delegateTwitterId": "",
+          "twitterId": "1258333066738704384"
+        }
+      }
+    },
+    "F9cqJUQzS6RzOaVugOEsIdBLzHx2": {
+      "andrtokenid": "fpCyjBlfQomf0NPrzkiCQn:APA91bFZ0U6yct4zROEI9maHagwUfzDp0k4riNC35mcf9j1VQzD6vAhbZOwSqBFxb0NKX40LjluOFZ36OWVq4TUoc9EVHGwQE2xjFlqehmjGISerieu0B0NRN1OTIgCyoMfEgJaQOWtI",
+      "twitterLoggedInIds": {
+        "1133671254228176897": {
+          "dateLoggedIn": "2022-10-26 19:57:05.174573",
+          "delegateTwitterId": "",
+          "twitterId": "1133671254228176897"
+        },
+        "1264155605448581120": {
+          "dateLoggedIn": "2022-10-26 21:34:01.235476",
+          "delegateTwitterId": "",
+          "twitterId": "1264155605448581120"
+        },
+        "1534569893047070720": {
+          "dateLoggedIn": "2022-11-30 18:43:08.410409",
+          "delegateTwitterId": "",
+          "twitterId": "1534569893047070720"
+        },
+        "1585161448539697152": {
+          "dateLoggedIn": "2022-11-17 14:53:50.594787",
+          "delegateTwitterId": "",
+          "twitterId": "1585161448539697152"
+        },
+        "1585218272345350145": {
+          "dateLoggedIn": "2022-10-26 19:38:16.640849",
+          "delegateTwitterId": "",
+          "twitterId": "1585218272345350145"
+        },
+        "1585224988348788738": {
+          "dateLoggedIn": "2022-10-26 16:37:53.767661",
+          "delegateTwitterId": "",
+          "twitterId": "1585224988348788738"
+        },
+        "1585287442663628800": {
+          "dateLoggedIn": "2022-10-27 07:06:26.784324",
+          "delegateTwitterId": "",
+          "twitterId": "1585287442663628800"
+        },
+        "1585288155648827392": {
+          "dateLoggedIn": "2022-10-26 20:43:02.111374",
+          "delegateTwitterId": "",
+          "twitterId": "1585288155648827392"
+        },
+        "1585323422392799232": {
+          "dateLoggedIn": "2022-10-27 10:56:35.926746",
+          "delegateTwitterId": "",
+          "twitterId": "1585323422392799232"
+        }
+      }
+    },
+    "G9xrkcu3ilSeJRlZEDpMMQQtSWn2": {
+      "andrtokenid": "cDzSdS1vQsqIXB8N1VSFM5:APA91bGaxpdGZNBkKoI1jRfdIScxhHL--sSDXR7UWpSexSbh_DLiTU32YW7D7s3paJ-RF-FesSYlBy-_rvxth9ggINk_7I27vTtw4XibyRG6l5v2t5SExZbbqsJ8QD2QRcUTU7vhQ8ug",
+      "twitterLoggedInIds": {
+        "845818452992512000": {
+          "dateLoggedIn": "2022-10-21 10:04:33.011221",
+          "delegateTwitterId": "",
+          "twitterId": "845818452992512000"
+        }
+      }
+    },
+    "H3DmQjJp8RbPe1rGGhEpwk2l9yz1": {
+      "andrtokenid": "enFxhedZRVOZjY88BVAWE-:APA91bHEZcAlhkBM3Z0eUtaHbdn_y9i5tUHGs8Z-jG2fME4Fjh4puX3dT1h_RQ8BVg5lN0Jp0QMSId9bV-RneDMk9N1kmLrnjLR5z_O_j2JR8IPRQYgWz_7oxfX6YnduNk8XyRqSsn4D",
+      "twitterLoggedInIds": {
+        "737205715517857793": {
+          "dateLoggedIn": "2022-10-22 18:35:11.256367",
+          "delegateTwitterId": "",
+          "twitterId": "737205715517857793"
+        }
+      }
+    },
+    "Hai8o3rAs6gQ6JIyUIGZ2gcYCo83": {
+      "andrtokenid": "d8ssYdXaRa69uQX1iE9eli:APA91bHJ9nOpQgXxdFsQXPRy3ee39nL_cRrkgb10pKmJ6LmNIfqYJ8Ou-vjY-iMIFgNEPpgEVTuNdDPDNSlereBGnp3U2IjM2F_ylp9svproyRvz4X9UYAB__5ZUcG1PWKOysFD2Y0MU",
+      "twitterLoggedInIds": {
+        "1541438264011132930": {
+          "dateLoggedIn": "2022-10-26 20:54:04.535020",
+          "delegateTwitterId": "",
+          "twitterId": "1541438264011132930"
+        }
+      }
+    },
+    "HfchdEkgHIcVhBkrveGwix3ppyn1": {
+      "andrtokenid": "dlOPUJ7CSVyz-NSQZQpGu5:APA91bEkifR-kKP9mEZGAO5Wa19091-Q_6oJ8wb4DxvnPkHgvwQVd8NGkLzEAfo3qigEYslGg2xMIHum-0YJgYne43jq2scUQ2ejbD6d3duv_MAd_svV5jQIxjctG4QXsgDsvuR2LTGY",
+      "twitterLoggedInIds": {
+        "1284166739819851781": {
+          "dateLoggedIn": "2022-10-21 12:11:58.775539",
+          "delegateTwitterId": "",
+          "twitterId": "1284166739819851781"
+        }
+      }
+    },
+    "HtHqdnmaXQhMLMglpTQBzzSWm4g2": {
+      "andrtokenid": "eqcYhfjhQ2yGRAIStJKGif:APA91bGBvcBRhS0eja_oiK0KxzS_hGp2peWqWvqECROSWnRhrlNL9VuI6xdqcHPbJMmEBQ4kymcL5DenGi-pWWCczEhQidN9Loh1OCi0HBQTQzQ0dEIvfMFZnKSX0Dv8udrY3lLSilfU",
+      "twitterLoggedInIds": {
+        "1297759233052573702": {
+          "dateLoggedIn": "2022-10-26 11:27:54.562638",
+          "delegateTwitterId": "",
+          "twitterId": "1297759233052573702"
+        }
+      }
+    },
+    "ImfbgCZWWIYfb7SId3XcAq39koc2": {
+      "andrtokenid": "c7cHeUe7RZ-cIb6gkfgu6U:APA91bF6zlGKIjQTZ5w1CJPnvcjEmw4kMnk2mq00Rfp-CDncnvuPavhYXmxiPKfKbZqEuAV3XewowsOCeowbUTeKQpNKWXH9Dq7i7OAAX9CWv9zPhbjqhPvgoBfDl4q7YQjSmp-g6jVp",
+      "twitterLoggedInIds": {
+        "1583896162360139777": {
+          "dateLoggedIn": "2022-10-26 11:29:04.916559",
+          "delegateTwitterId": "",
+          "twitterId": "1583896162360139777"
+        }
+      }
+    },
+    "JOLnOyHmSkVcqNk7LbfcyBhPRLh2": {
+      "andrtokenid": "cU8ea_dpTuaxyel5Vbaqzd:APA91bEkosFu4QlZ-Z2u0k4IiUdBBbxfM_XWLh_oquJkU3JeZiGy4NEov6pFKFif1Wi9lj_CYIXluJak3Ps1ydls6e6nlMzZjzhU7mRIywji1APWUZTxySWXo-JLWnwyhDrnI4xSJ43F",
+      "twitterLoggedInIds": {
+        "1548722208180441093": {
+          "dateLoggedIn": "2022-10-21 09:43:55.724848",
+          "delegateTwitterId": "",
+          "twitterId": "1548722208180441093"
+        }
+      }
+    },
+    "JSPEL5NeJnY042jqLO6XRNjU9Wx1": {
+      "andrtokenid": "c9Ay9knbSECXJDXvL-BPOs:APA91bEoL6t2qjwQog-vtMKRpRIjzZcRWXSpoVU9sHSGRphXb9y58bDlc5oZKh5liIJzjkL0OiuCgetv90Pm6bk26ptjx4Zo4gCeb3BEhs2ab9ico5HEoP3ldQAD1YLTNr5LywZLYWry",
+      "twitterLoggedInIds": {
+        "1247136725744279553": {
+          "dateLoggedIn": "2022-10-21 10:28:18.189041",
+          "delegateTwitterId": "",
+          "twitterId": "1247136725744279553"
+        },
+        "1583261716594688000": {
+          "dateLoggedIn": "2022-10-21 10:29:10.793659",
+          "delegateTwitterId": "",
+          "twitterId": "1583261716594688000"
+        },
+        "1585149821551534081": {
+          "dateLoggedIn": "2022-11-02 18:17:13.301240",
+          "delegateTwitterId": "",
+          "twitterId": "1585149821551534081"
+        },
+        "1587734966695526401": {
+          "dateLoggedIn": "2022-11-07 11:27:51.144506",
+          "delegateTwitterId": "",
+          "twitterId": "1587734966695526401"
+        }
+      }
+    },
+    "JshXXUUNVES1cVgoOZktitYOMJa2": {
+      "andrtokenid": "fKWyyhqESYa6Fbnp7gI0Lb:APA91bHgW21MLr_85GGBvADrYnle9xu_idwOWFKpmlOsFj2YC-Wpj5dUIqhFW-qt_i2Qlr-_aIwhy_TfO6LXo0mX_A24u3iVikAqan7xh_pAHlDV1-NX3bgci042wMj2flYVx2X6j9R1",
+      "twitterLoggedInIds": {
+        "1583783370332737536": {
+          "dateLoggedIn": "2022-10-22 17:03:22.697659",
+          "delegateTwitterId": "",
+          "twitterId": "1583783370332737536"
+        }
+      }
+    },
+    "Mt8d1YyHJ6dnn1gVGCRSc1Na0ah1": {
+      "andrtokenid": "f4Mb5cpBQkicdjwhuANK15:APA91bHCiQF2PtByGOGG0SROnM6YEaZA1_zEADQGKMF-XibxXXsJ7JMSPZHVGeQg35O6zgSEzEVCeYgc0IEXhvawuzMVccw5RNeCI2ztONmvcxgExw-DcI2i8B8u5NP04qlGKkCmt7sm",
+      "twitterLoggedInIds": {
+        "1585701694792343552": {
+          "dateLoggedIn": "2022-10-28 00:21:42.391391",
+          "delegateTwitterId": "",
+          "twitterId": "1585701694792343552"
+        }
+      }
+    },
+    "OJAW11pN4VS9atTPvvnXQyPI6Ww2": {
+      "andrtokenid": "c80-M7enSF6JCAZxWrZg4U:APA91bGIbbou6_ux3CS-Xfcpe7ew5fgT1xzOTtPupC30UgZENHAcDDZZcAWTS1pIYsmXB1gKK6-tkgY0AXoVnUIvKaoovTViggYy4wVwlrt3wpe2nUsBEPRs7QsssRChfMDsReRwm2MO",
+      "twitterLoggedInIds": {
+        "540907498": {
+          "dateLoggedIn": "2022-10-26 13:53:13.503991",
+          "delegateTwitterId": "",
+          "twitterId": "540907498"
+        }
+      }
+    },
+    "PfyhoDSyvGZbj8EbIssEVYulbzF2": {
+      "andrtokenid": "dqkFPBR1Q0WybmDE9jnEyI:APA91bGQs6LPRF0nWuq80auJ2bI9NJG-8Q-3OIYY6UWlw79f2pt5QVtA49hF68kEiP4BltSJcdJQPYJhkuPRwXm9z8ncg3OiuZayUykCMFagWCwQTWt2fi8HWb72McdkrLOOgSjTTHL7",
+      "twitterLoggedInIds": {
+        "1310063780521410561": {
+          "dateLoggedIn": "2022-10-26 20:54:42.296990",
+          "delegateTwitterId": "",
+          "twitterId": "1310063780521410561"
+        }
+      }
+    },
+    "PxTTaz8rqrcxkwYDv8Gm0bqqPz22": {
+      "andrtokenid": "fa4tqvxlTLKtt9zbQNiwcr:APA91bH93yhrDDV8ixmebTVXHQZW4VSLfpR0E73MYjNcqXxpsQQSeckaeoSj-IKzWzp_b0rNmhg4YM1KWq4e90oNfrzpviSXaW4BqOjcaWxXe4TYW4xaPGt-NIpYzQxcFGJubJ3ykpFv",
+      "twitterLoggedInIds": {
+        "4855841788": {
+          "dateLoggedIn": "2022-11-16 18:58:42.596069",
+          "delegateTwitterId": "",
+          "twitterId": "4855841788"
+        }
+      }
+    },
+    "QNMplhSQbtZY8URWr6Gv4YCbqsu2": {
+      "andrtokenid": "ePzLwSo6QZmPCfZxot6ZZW:APA91bEbpIlETzM9-TyRp7Of2dgpMc3WETT_4_ZBivedn7CVK83VRXParqTmZoQPdYkndS-rY16hWC9nGzfUp0FBISYELG7NmOO4T_sSruR_7VaApxsTDtCdBJqbU2F2v9bRlsS_fb0w",
+      "twitterLoggedInIds": {
+        "1512020566873571332": {
+          "dateLoggedIn": "2022-10-20 20:55:21.940325",
+          "delegateTwitterId": "",
+          "twitterId": "1512020566873571332"
+        }
+      }
+    },
+    "QWqjqLLFVITG0Hkd9BnjCPKQ3fu1": {
+      "andrtokenid": "cJTk9ql0Scer1Wab5BLHon:APA91bF7CbaQHL26BhamwVwpg9zA41VvjiUBMW_dHqjIfUrfsMWBxZ2HoogwWY1_L654xsriuY6_1o5uKJWjBWSeHEOSaqUszPJcFW8_UmtEZUyyyjmiOoqig8TRH4-QzgiBEMUjEleD"
+    },
+    "QeDOYmSOT0d6VJtoFuphQLI7r3h1": {
+      "andrtokenid": "cWg_nwiRR8SwbXVnqoPTiA:APA91bHKMG6SMWU5XXy4kMRseaorRvC8cZRWQ9ns-_e_BRL82NXGHyeiyJZLUFJh_8BYH1vEa3QAx9BZACqpCEQRUiNjr4aPxeR_59Ro-S5jaPf7Pc2GBfKVq1qneJRsz5howRh_KdLH",
+      "twitterLoggedInIds": {
+        "1585184182057463810": {
+          "dateLoggedIn": "2022-10-26 17:57:40.411173",
+          "delegateTwitterId": "",
+          "twitterId": "1585184182057463810"
+        }
+      }
+    },
+    "R1hpQuD5tPN3W9oVU0dlNAdrU933": {
+      "andrtokenid": "eGKsZF8YT2ijZRPVWFL3Lq:APA91bGWBVEzLZbmoe7Uj8evcfaBzZUldm_O8b9gEaWaj-goNsKRgY6jypxJy7Js4e_lFvOqXEWWVdX06e25i2uQVBU0AXlI_17Mzm0W0eztrWLp8ZoeJHqjtWviaGweFRjLNfzmuTG7",
+      "twitterLoggedInIds": {
+        "1597193803911557122": {
+          "dateLoggedIn": "2022-11-28 19:37:47.867673",
+          "delegateTwitterId": "",
+          "twitterId": "1597193803911557122"
+        }
+      }
+    },
+    "RTuEOJ9YhYcVDvaZiZcaP1Ew7fx2": {
+      "andrtokenid": "e4OEgCQrRiyub1AaLItMhs:APA91bExPZNnkR2cCsHxrw5zjC8av5STRVPBgehrPu9C6Dr-cghllRM7nBP-jdsqXxV7RPWtv_1s5KXGKwv1KZzn62ZIe5YcCYhYXgGNHIE1snz5-Wei9Ycer07bU_yqQLQAsSilf409",
+      "twitterLoggedInIds": {
+        "1166416124956696576": {
+          "dateLoggedIn": "2022-10-22 21:04:44.509625",
+          "delegateTwitterId": "",
+          "twitterId": "1166416124956696576"
+        }
+      }
+    },
+    "RVQSxna5fbc8nVYSZhQzL3dqYLC3": {
+      "andrtokenid": "dX2vRy29S2mMdYiYv68K1P:APA91bGmoPXf-Kc4Y4LbASWJU_Mf9ufweCtZJipKZJp-clBofQqAOgzH7ktaopZl1UpbEiLZgS9QJlLPPJObMx8RaprG5E3rfbOQchYgT0Z6biMtjvmdXGNXihegKet3d1ai5ktj0NGN"
+    },
+    "RfzARf04M8Wcfi640AutgIzHOtD2": {
+      "andrtokenid": "dWZ8MWTaQVSCT2TbuANR1t:APA91bGpK2hlJc7jh6cbm79nbYRbNWnFmgr8dHC76PdOnaAv8Uyu2hVgyHh276xiw9HlSu8cfP2IcNd8CCBRlmZzpWw5vjX693BS-xVwMp1349AjqQW_cFjd_1HXVHKB28UQu10cr-uA"
+    },
+    "SX3KJKqIDJX2EU5VPJYpvHEWaok1": {
+      "andrtokenid": "fLXuQK7wR1yFYlkFiLuqaR:APA91bFlZNyBysE5eGEDRH8440A3rftFFllRmCbqk6dLiHYRv3d7nxe2b6K2Yn66Z8EApdJO33D0uCuQmSAozDbtmykY3K9apCCmNCfqGYiwrPbz5Vn6VUiqIcYMmBCGtW7IFQOOcSpr"
+    },
+    "Sans7TeDhNfwJFN9YFASwiAhRLo1": {
+      "andrtokenid": "fRZsfRHAQ2uIz5KQvf9P1N:APA91bHKkpxoQ75xIXGcTulL8YSEFqpwJHQ5EJBSEOy-dtqduDbk4jXe2qRWxEQ62k_uGGrWsYGnBpcSqEHA-XhwPiz-ZmSPLcGMmAuo1CJfGrBtBX646viu8CZAasJh-RP7PDDTzhBx"
+    },
+    "SbQueV0AyxatjxBGfWR2Fy9hqXp2": {
+      "andrtokenid": "c6RSBanmTHeAdL28mwA6pb:APA91bGB9FZv00WJ2WzKxtrv1T9NfD2_ue-bSDQcKukmecEePtJiLQkaEGct6ySloPwTHSs4VijqibVMDLCa6fEPv2R9RLOaWBguQztStnhGUjLAMSNnxXHKfCsq2LHCDoiKa5Ghv_De",
+      "twitterLoggedInIds": {
+        "1166054061248077824": {
+          "dateLoggedIn": "2022-10-26 17:33:17.810169",
+          "delegateTwitterId": "",
+          "twitterId": "1166054061248077824"
+        }
+      }
+    },
+    "T9GWUknpz6XfI7A2UBs9TsHiQvm2": {
+      "andrtokenid": "dI0Nqhn4Q1Ck-5o3K2-iF0:APA91bHKxDCi4T8ANEpUzB5FVUsFNYH6NyS8eTWMI-w9y4CN6M-1mgWs5afJFT0QzmBALzJK7_yP2gYowe_YqLML6RVHcpEpDxoHMc05va8FXYlTzSntdmXh7rdRjSvDf4zebf5H1c8Q",
+      "twitterLoggedInIds": {
+        "1302469902012264448": {
+          "dateLoggedIn": "2022-10-21 10:16:06.433964",
+          "delegateTwitterId": "",
+          "twitterId": "1302469902012264448"
+        }
+      }
+    },
+    "TMYjRLYCaefU9xDrbTjNyLcPlRs2": {
+      "andrtokenid": "fKRpUuH9SDm1gDzUdoccMH:APA91bFZj8917jyD-BrAA2f8ZWodr84JttyoALH9t2d_qX2_FFaVyUri5GhRdG1MZ7G1moAphD3gL4FfD8SQ7ey_a73rnl8wJm3zUaKOAz1_fvasiVJM6P1WxL3nW8uBAIoLuf4mSSor",
+      "twitterLoggedInIds": {
+        "1271730612722753537": {
+          "dateLoggedIn": "2022-10-26 20:47:05.466149",
+          "delegateTwitterId": "",
+          "twitterId": "1271730612722753537"
+        },
+        "1585287442663628800": {
+          "dateLoggedIn": "2022-10-26 20:54:11.283983",
+          "delegateTwitterId": "",
+          "twitterId": "1585287442663628800"
+        }
+      }
+    },
+    "TW8SDuXxjmfyxXWmLit9Dq8WpqG3": {
+      "andrtokenid": "exxDZw2YTty_3_MNtfLNJ7:APA91bFjwNha-2KB1UD7-BEh5nBqQ0B64RCz6pun4GBvsG08qBvPqgt2lNaHXB2AT8XaehIhsnsgU_9VIrdzbuFpT_4bwfm4mtvWw-28wAY2JYRVa5OTNATBod3WUTnoSCS-vZEj4vve"
+    },
+    "UOufNywiTCQ3eTzegpWVzljOJCn2": {
+      "andrtokenid": "dQJ81PSMRrGfi26cAA0nfo:APA91bHwjMEA5AiOOIQqb6dfq-4o_ejA8hba1y24iXFH2DJ4-fyrHEtK36vFpBm_nkjBIARDaF2hDT3kXJBnDeJQTiY-4XsT3jfeKr8xQUUPc09a5IuFkMaM9Y_0Qtacsg751DmyuUXh",
+      "twitterLoggedInIds": {
+        "1275389210879578112": {
+          "dateLoggedIn": "2022-10-26 18:31:52.867337",
+          "delegateTwitterId": "",
+          "twitterId": "1275389210879578112"
+        }
+      }
+    },
+    "V6Ea3vENJLhMKS5I4M62fbkNQww2": {
+      "andrtokenid": "cfk3KS4YT0CK6LMbVa3wWp:APA91bF7XY0WelErWl3sLX1lqUirNIHYfqIFpvnvrjH0pPNAl6xmZOsNHapGJCq6WfiudXluuPDyP_8WVPvP0Vq1Ua3uoYTw9LM-1PCsUNtPQsCN6xi_idI72V-uMlWfJ3lLHY2WR4eL",
+      "twitterLoggedInIds": {
+        "1585159041356951553": {
+          "dateLoggedIn": "2022-10-26 12:16:16.816155",
+          "delegateTwitterId": "",
+          "twitterId": "1585159041356951553"
+        }
+      }
+    },
+    "VFNAOBxaUdcyTTOh2b8XYq4TdWv1": {
+      "andrtokenid": "cJwnOgl6S3m4P9QBoNc54M:APA91bGt08swUGvbeWiTzXT195rRcj85-mmSprzJwzyoyYiNPT7d0ufCusTobqRqXlA-4LEmpC6IxW2mmj68HVbUYs2nd6aR-J5sup2h-M4TGHx-qEJiv_rbtkGUuGmo6349W9AXW3eb",
+      "twitterLoggedInIds": {
+        "802607261701050368": {
+          "dateLoggedIn": "2022-10-26 16:14:52.464451",
+          "delegateTwitterId": "",
+          "twitterId": "802607261701050368"
+        }
+      }
+    },
+    "VmSQMR7XQ6fqYiZ8yFuDsjQ8cw33": {
+      "andrtokenid": "f-_FL7zKTwWQPVonyJX6BH:APA91bGsb-VtAbbXb7Ec-5u9AYl9KpPIPR9jWZ5dvwCTzyYscoeVLfHAy2kMhuGZnDoshkd9t-WqmLoviDWIB0Aj0K1rDPuK04bC7NJ5GA61wTUkafWfBDrhNEV_KHuiL8PvpTXmI1Z3",
+      "twitterLoggedInIds": {
+        "1538001066939547648": {
+          "dateLoggedIn": "2022-10-31 21:43:00.988783",
+          "delegateTwitterId": "",
+          "twitterId": "1538001066939547648"
+        }
+      }
+    },
+    "WkRX9csvrCQWzqDXQvPZ1N5LRTn2": {
+      "andrtokenid": "e-OdoZILRr2SizwCkFeKX0:APA91bGCMiR_xAUZ9dMs8Cy95b02jFFxtJ-nUoSfGYTSNUjHPWODPPx4XVa6zwo_LjnOtbvM0xtZWJiUq6phhRGDQcwKREkMq45AAw96cC9AYdpiEjUVGCLdx3mFy_YpJBRhbhlSBXMg",
+      "twitterLoggedInIds": {
+        "3163319534": {
+          "dateLoggedIn": "2022-10-26 20:38:05.341461",
+          "delegateTwitterId": "",
+          "twitterId": "3163319534"
+        }
+      }
+    },
+    "XJ73p8fYsVZAqtffZcUk0P9JtZ33": {
+      "andrtokenid": "eGs7VF9ZQHm2mnPDV1WMZS:APA91bGAUBfOSs2IA-GU1oLsMadEGd3jzBJSBKn67JEybnw5bKN7pMVBtp_PiXL99VQyIi9vt0sEShXJri54zRmUpN4Kj4zGhDHcvg0hk4sVirLKpNu-llhpJ9UCpzZBBvug86Qepax6",
+      "twitterLoggedInIds": {
+        "843452088": {
+          "dateLoggedIn": "2022-10-26 13:49:21.872540",
+          "delegateTwitterId": "",
+          "twitterId": "843452088"
+        },
+        "1585146325359656961": {
+          "dateLoggedIn": "2022-10-26 11:25:41.169806",
+          "delegateTwitterId": "",
+          "twitterId": "1585146325359656961"
+        }
+      }
+    },
+    "Y5blyKw2wVQKFLsIDH9PlHyPzur1": {
+      "andrtokenid": "c1enK-IoRUuBa_1ZQURS6e:APA91bEwqBvWE6rwY4pOdJ92VXIkjRWDgnzN2_uKZoRsLPdhJLuuPSkc5Z-bvv1eyduDDP2oQaVOc9y5rdEsrwhla2gerca04u5io39XX7uiOAvAqecC8Ooa0oiQiON2sHHKKzAoOriJ",
+      "twitterLoggedInIds": {
+        "1585179433802952704": {
+          "dateLoggedIn": "2022-10-26 13:39:54.125828",
+          "delegateTwitterId": "",
+          "twitterId": "1585179433802952704"
+        }
+      }
+    },
+    "YLviFMwDX3brtZ0YhppcbQIVVre2": {
+      "andrtokenid": "fPaioVjfRvO4Z6NOOcVpCk:APA91bGsJFq91xstc-a6D7yMwIsEc0b3aPa9PaxIjixQlSK72IBEbO1jIUyLYZ2draqtKC8ZkBEVl_tIdGAuXDidDsKoZZwUR1hVZZtexcR680NBVN9Ov2Rfy4Pamw7TdcMXwNLhlLmf",
+      "twitterLoggedInIds": {
+        "1239874977035255808": {
+          "dateLoggedIn": "2022-10-22 17:53:57.155500",
+          "delegateTwitterId": "",
+          "twitterId": "1239874977035255808"
+        }
+      }
+    },
+    "ZzmijcTKCpavHn6oIgu10h0DWAG2": {
+      "andrtokenid": "dUx-1sELQJyJeECqezc-6A:APA91bFTO4L-ntVtC-NFSRBpLaecRmkOelRPtfyzRzFKqOYMtZkQ0Gq03qJrPgp-TQjWkYvBSFznwav2oA91eyTsrfg8JyKKxhe5UKPg5bA5HbVKtspZiEyehR6FV8aY2bGfZzAmKCbX",
+      "twitterLoggedInIds": {
+        "620757286": {
+          "dateLoggedIn": "2022-12-03 12:51:00.350084",
+          "delegateTwitterId": "",
+          "twitterId": "620757286"
+        },
+        "843452088": {
+          "dateLoggedIn": "2022-10-26 13:02:53.676220",
+          "delegateTwitterId": "",
+          "twitterId": "843452088"
+        },
+        "1258333066738704384": {
+          "dateLoggedIn": "2022-10-20 08:43:40.773053",
+          "delegateTwitterId": "",
+          "twitterId": "1258333066738704384"
+        },
+        "1585314360947200000": {
+          "dateLoggedIn": "2022-10-26 22:35:36.837235",
+          "delegateTwitterId": "",
+          "twitterId": "1585314360947200000"
+        },
+        "1585322155314941953": {
+          "dateLoggedIn": "2022-11-17 13:17:25.472061",
+          "delegateTwitterId": "",
+          "twitterId": "1585322155314941953"
+        }
+      }
+    },
+    "awSaa1eixNb6BNXa9VctyR7xPJ12": {
+      "andrtokenid": "e45NMG_tTeiGdttVPlewWG:APA91bHW1MjQXqq5QHAjg0H7zsHwqskOQ_wQUUhqm8KGOUfldby2-qeG-orHpR8lNYdE6TiZw3ZPfUgv4K2e25WQbulAIBhVaUjH436IPijhhyzn-1hgYnaZYozRObmoCrkKrrqkcV6m",
+      "twitterLoggedInIds": {
+        "1232170328366948352": {
+          "dateLoggedIn": "2022-10-26 11:45:03.921037",
+          "delegateTwitterId": "",
+          "twitterId": "1232170328366948352"
+        }
+      }
+    },
+    "bS7hG12bfGS3zSuJ8dzvww2roTI3": {
+      "andrtokenid": "eAtZjIUYRXev1ZJnT4NNhu:APA91bH7DWPLPdsFMmcyl4mxQ3fLbiAq7fwUB0mK4FALNlovKAEy7M4mRShy_2TGRePAE6AOHYCa1VaH18QCwRTnIjLHn5Q_-BLs-uaKD6dql9VurfQqOhWLgxk-2JX5rVja7t9r43-W",
+      "twitterLoggedInIds": {
+        "1585301147396427776": {
+          "dateLoggedIn": "2022-10-26 21:35:58.066140",
+          "delegateTwitterId": "",
+          "twitterId": "1585301147396427776"
+        }
+      }
+    },
+    "cVgWbypcl6ZZaiP04t2X0H3hmnM2": {
+      "andrtokenid": "e2zGtn4LTvSOI3qbwsWEvq:APA91bF-hAdEsCzi8p7dNm1FuRCxB2nKZsLz1NmT-m27fm2nn0ucAhcgtAd9mW0_h-SqcwV5h3ruh6a1cxuzufn7hROCZpCJUejqwULwlW1nv0q-zmGA0BSlSroqquuouVgC6C6X2pNI",
+      "twitterLoggedInIds": {
+        "3247568377": {
+          "dateLoggedIn": "2022-10-26 19:31:27.376371",
+          "delegateTwitterId": "",
+          "twitterId": "3247568377"
+        }
+      }
+    },
+    "cco0IggOmwfjbIhCrqnBm5ghxaT2": {
+      "andrtokenid": "cE1o_b-QT_mfQE-W45RN8e:APA91bEc7itdvvk1CyeeBod22mgSsCGQW3yq-wRjDlV2JQWtKHHHWN0m_tWoQKw2pbFDEAjuK-qvzepGrKxLmYyes3HZLf_pO-J6fnumMV6En353NB2kf-aotvVtwQti0Fp2o1WdU8Bc"
+    },
+    "d7akxmHpmEPOdwZgy4ZPanAn31h2": {
+      "andrtokenid": "e5aYnyyaSeSAzxB2t9lMtg:APA91bE2aEMu96Rf1SBhX3u5Kc7oNBNId78BPtcVRZN-hzY-iNTNaHYXW3FF6ypKBnN69-_5PKabNBucb1EMCJ5RAvVS9-ruixUI2aFWVnSQiqssH9G1XAmYWUi8PLeVlw7v-1JJyx4u",
+      "twitterLoggedInIds": {
+        "1577896344978657287": {
+          "dateLoggedIn": "2022-10-27 14:26:51.709964",
+          "delegateTwitterId": "",
+          "twitterId": "1577896344978657287"
+        }
+      }
+    },
+    "dXWXQ3KnZ6b1Uj9iwxMA30d2WBY2": {
+      "andrtokenid": "clqu2JTMSPm2_aHEkto6TT:APA91bFbPhcgUIrvfjkemtvag9OoOQAA_qz0UfAnHByHd6pjtXM9vuw3NtG72IN86lgD0p9QGxpV4KEN1Dvm5OUz1xoxPAhrM6Ceabt02RC33H5Ixw7MES9kmO7rd5iWICOHKG6QivL7",
+      "twitterLoggedInIds": {
+        "1106678452675973120": {
+          "dateLoggedIn": "2022-10-20 17:05:09.444960",
+          "delegateTwitterId": "",
+          "twitterId": "1106678452675973120"
+        }
+      }
+    },
+    "eMzlKRyPpFfA79COdn6G5tB6fbu2": {
+      "andrtokenid": "fG7h7r6NToGENmG-sud2kV:APA91bEnhaRwRr7XQlRqlNhx6IaDD__dnd45PJaWrimWuajJOtCz0etkTK2B5ncFeGylY0O9qelNI8CmAViEFG18EKGhDuDUrkVI4jwOE8yZsCcOcgoxXBAor7yCntONOvVaOOrAwqRt",
+      "twitterLoggedInIds": {
+        "1297947693101142016": {
+          "dateLoggedIn": "2022-10-26 23:51:05.198901",
+          "delegateTwitterId": "",
+          "twitterId": "1297947693101142016"
+        }
+      }
+    },
+    "fRtx5HdBJlaO7xSKdC54GM7mncp1": {
+      "andrtokenid": "dq0gCk4lRhyPWxDoFVC-P3:APA91bGA3WM1slDo08wX7LuWVB9sgS_3D04sdGOwhowFKB7W0BQa7VN6JdlMNHGAsNa6_x25Aq8EnzTpN642ZTe-qjTP5oDrPfXe37CnKy3t7Zhp77pZOogWoeG2U7CcJ4CWfaexcK8l",
+      "twitterLoggedInIds": {
+        "1232511950887751682": {
+          "dateLoggedIn": "2022-10-27 22:05:59.913991",
+          "delegateTwitterId": "",
+          "twitterId": "1232511950887751682"
+        }
+      }
+    },
+    "fekgW44hmATz1UUTcWoEdCxg3tn2": {
+      "andrtokenid": "eb3Xvo7hQX22CzIrLS6AL4:APA91bGV2Y4JjmCA-7PzZRkbj-fO1eShhZmYZ41JHiokENx66Yki4yVzEqzajbpTqqlcvVCDzTdm-jRUOkulnGrR7uNrJhDoWETsXfkr9MxrDpHhL4AQgOEqG595B7kyitqMR0XzsVWB",
+      "twitterLoggedInIds": {
+        "1583302064": {
+          "dateLoggedIn": "2022-10-26 12:25:09.444294",
+          "delegateTwitterId": "",
+          "twitterId": "1583302064"
+        }
+      }
+    },
+    "gb8nJ5558ngvGlYrn908fus6rH03": {
+      "andrtokenid": "fEChrZIfRYyKSAVdFVPDX6:APA91bHxVzVCMSm-nISsUcm3SQ2g3lw3dWAf96g6QyYoaaOI6Cf4zHxYgzd7hNMU7QfxLefn1YcjdSTmvPlS4nsMcixy9tzxWY_wlUN0fL5UF0Ikq3Ze9zYGMNAgO47_1CzlQUjRXh8z",
+      "twitterLoggedInIds": {
+        "833148002": {
+          "dateLoggedIn": "2022-10-22 17:57:27.552934",
+          "delegateTwitterId": "",
+          "twitterId": "833148002"
+        }
+      }
+    },
+    "hNoeM1OYdwekJGhnWUInaF1GPXG3": {
+      "andrtokenid": "eezQONHERUyNBwG4ajgnAF:APA91bEhTqULkEFX2UvnoaTSEu7zCxtHG43KpUsNfqY-cf624KQHEvZjbRvn9mx8rZ2H4EjWFzoxwdX8OWsQJ_7JhZp4P4sM9p3BK3T9_dmodK2-G8S9pmq8LfzJlwtc25hbghyR-YoG"
+    },
+    "jNgmzadwW1XVjJQBaPJEViry9wi1": {
+      "andrtokenid": "cG2Jn42-Qpu_8eo-OxkXX9:APA91bF48PvyN4AW-qv-kU7-qQJN9FikdQitryJgK4AFa2dTrKPAmNU-ATbBq6JGNUY4SmmWIPjhMBmH1iGQ9PFq_7V2XBVFRaQ2tiS7mabMKaPgwZfsT-davbohf88JsdkD0vlMhLjn",
+      "twitterLoggedInIds": {
+        "1421775316586950661": {
+          "dateLoggedIn": "2022-10-26 15:02:17.012420",
+          "delegateTwitterId": "",
+          "twitterId": "1421775316586950661"
+        }
+      }
+    },
+    "kUnxCCgrvHdJ4h7lQR1pMJQRtj72": {
+      "andrtokenid": "e4KdfQrIQNKifzlGpOuQXK:APA91bGVKtvEx00vbwFBA2pmOiyABav-iLib9yYFVaWTCY4NUrDUFoP0_lSgll7DcT1gDmrJYFOAJS9fTlMrA6y5QWShSPWPfnqcf__qC0UOdGWxJmMbF7MFX4uSVKRdYcgMiNv-QJUh",
+      "twitterLoggedInIds": {
+        "1239874977035255808": {
+          "dateLoggedIn": "2022-12-08 14:33:25.673421",
+          "delegateTwitterId": "",
+          "twitterId": "1239874977035255808"
+        }
+      }
+    },
+    "lvFsyhmIJTWNg4mJFImObOXwlTu2": {
+      "andrtokenid": "e2ToHLUNSuif00lpZUpJlH:APA91bELYwb8zUtO9ADkvLARPO4YbvBVtiU8ZZgbsjm79-FmSPDkiKMBROIKx11aQv2YbQPQ1IVHtOSIWIN8d0DgOANGswm5UWHgdkvgOmgn6tD6OP0yUN4PXWc3JocdMeL7EzDKdJ-N",
+      "twitterLoggedInIds": {
+        "1583126038942392320": {
+          "dateLoggedIn": "2022-10-20 21:32:24.610693",
+          "delegateTwitterId": "",
+          "twitterId": "1583126038942392320"
+        }
+      }
+    },
+    "mGdwZtR5XlbgSxwY6eqzTVz8l2q1": {
+      "andrtokenid": "dy4JSuAGQdGw1CU2FwF8Pv:APA91bEKU4NPEhH-7dnUbNjzNjADyVGsmX1h-B4imHRgNdiU-TQ0NgsLol6lhh9U3B1Fh-4Fwd8XigxTZiYHfHMxxw38qZex0-xU74K8vULxamQDnPOwvkOI5xFNavWyjhuzBARy4q0U",
+      "twitterLoggedInIds": {
+        "1585168381140877312": {
+          "dateLoggedIn": "2022-10-26 21:12:10.078518",
+          "delegateTwitterId": "",
+          "twitterId": "1585168381140877312"
+        }
+      }
+    },
+    "mjACPNBNwgfJEDfcY7AQ18zH0FV2": {
+      "andrtokenid": "fFFG3t0IQXe1CjboPeguZl:APA91bEdWywoTur8whVD161ZUguGjKanEO8jMOgoTqi0grbNt9f1FsENIHaHinK2xUeOuBDh7fnUIuq2WiFKBW8cwuaL8xbeO_eVhN0uo2dQ8yngH5NqvyjGUFzWq6waNjPnhkLKtWTR",
+      "twitterLoggedInIds": {
+        "1382028961853558784": {
+          "dateLoggedIn": "2022-10-27 10:07:37.597164",
+          "delegateTwitterId": "",
+          "twitterId": "1382028961853558784"
+        }
+      }
+    },
+    "n7hHoAigTISuAle5uSvHWXCXko73": {
+      "andrtokenid": "eMi47S6wRz6WTzC0cA5dlK:APA91bHXuyamT0a6Iqcs0wa0ckdMQ-DlHWLKmLKVYX7x3fovklCnuJdkNaANmtlGjm4fV8ISIkf-7XQDSt6CjfVx817NybmvIVLAIHJzTVi8xOTLVIWf3KbIVDppdZ2HCcuXCf-67NBI",
+      "twitterLoggedInIds": {
+        "822657059313295360": {
+          "dateLoggedIn": "2022-10-22 19:28:06.080394",
+          "delegateTwitterId": "",
+          "twitterId": "822657059313295360"
+        }
+      }
+    },
+    "nz9TN5qNXxUWRhfyC4Q1QRIeZ1m1": {
+      "andrtokenid": "dwQIbU6oSa23k4xXjfa151:APA91bHZcBoyInWTMox0E7D_7ThQ-M0W9cWZXZ4uxtLl_SHrRKxoejzQwoI26gBKifaNXDsG7TtQYOGLsBoR6dQjpxYuPhsjt5pyiuMfEqP9zwkjw9M8jD6DmcuIDD8CWNJ-GwSTYijp",
+      "twitterLoggedInIds": {
+        "1553305025820368896": {
+          "dateLoggedIn": "2022-11-18 11:50:56.077569",
+          "delegateTwitterId": "",
+          "twitterId": "1553305025820368896"
+        }
+      }
+    },
+    "o6Oc5XxfF9VJjPDneWrR2VgfI1n2": {
+      "andrtokenid": "f5C_QU_3RPC1Bo31EKiaHm:APA91bF-_Sj1VX9-upVARSDmzqymIT4SFkFFDoLmf7eH9By-k3RecoJCvQJ9JarK81DDQPFkfG1bTXOIROerMMSYtxAXrJDbSaOTIUyseQ-OiIl-xV4sqxTY2QYAIOm6Kh4LV9-4HZqj",
+      "twitterLoggedInIds": {
+        "1570720393568333825": {
+          "dateLoggedIn": "2022-10-21 11:50:08.158186",
+          "delegateTwitterId": "",
+          "twitterId": "1570720393568333825"
+        }
+      }
+    },
+    "o8yPWfpT87dv5fpJLnpcwnEnMtJ2": {
+      "andrtokenid": "c5GZSSrrSGqjdopIE6eteM:APA91bGj9TYsRnWjl5VcJbbpOhli-7_hO_yoLE8pGOJyLDR7yaZWavmbjN8wYAix8HHaMVeXzcotBbUnQpHM0sEXrZuxy2a8GCkXFiziXOdg-T46Uz6eY0M_BBeY5_y6UvbdD0KW1l9g",
+      "twitterLoggedInIds": {
+        "1370379104361484295": {
+          "dateLoggedIn": "2022-10-22 19:05:45.548075",
+          "delegateTwitterId": "",
+          "twitterId": "1370379104361484295"
+        }
+      }
+    },
+    "oA7FkQM9aBe8nk2CKYFmlhgsrMl1": {
+      "andrtokenid": "dxB5i87gTcKLC8sSO7gLkK:APA91bE-Su6hS_-Xx3Pb5sMavLmu-2MjaN-gUQv_LXRZ0QQWMSED3nhYZreEZf-Oqlz7xQ2RRU2Ju0sCHHD1iiDXSvl6mW3hprOFAG1SZYI8ZML4Ip9jclM5aGXz9HfObi_Z9zsFfVHu",
+      "twitterLoggedInIds": {
+        "1585276868307013638": {
+          "dateLoggedIn": "2022-10-26 20:11:25.533577",
+          "delegateTwitterId": "",
+          "twitterId": "1585276868307013638"
+        }
+      }
+    },
+    "olvNW5LCdKcjT6ntXDQrTvHIwhJ2": {
+      "andrtokenid": "eyyQh2PoSVqm2j5zQjqUY-:APA91bGy6LoEuZsG3TzAcNKwx3tBBIeq-W1wcBasqMH5YJQZe_0r_EEl6Z2xI9J7-5kiQE-cVNvFOrlha1tvG1aKmErY30zi2GKsyjIQqO1cLMIsQ7cMoX4NToQuSbe-2qZPt5v1fFNH",
+      "twitterLoggedInIds": {
+        "4924566481": {
+          "dateLoggedIn": "2022-10-26 18:33:29.734366",
+          "delegateTwitterId": "",
+          "twitterId": "4924566481"
+        }
+      }
+    },
+    "pXqHEld1OzTKHIcBgR4OgUTgxcW2": {
+      "andrtokenid": "eX5Utd3WTWmRq13GKesl-r:APA91bGaUw8X6fX8HYkf7U3fnlNvBQZwjHACO3unzlUFtGdULowuRMTUtQLpqBtJqWap7pN2IQCgzJ73iFBRMiHya_6lqip-zIOwsQeg6GkdkxFrhw6pKGzmbtRxpgh6T5fO5aWv0MiT",
+      "twitterLoggedInIds": {
+        "1585176017684922368": {
+          "dateLoggedIn": "2022-10-26 13:19:49.777614",
+          "delegateTwitterId": "",
+          "twitterId": "1585176017684922368"
+        }
+      }
+    },
+    "qMbYojC9z6eDBUYXLdmT3Z6yLY83": {
+      "andrtokenid": "cL37uHgBSOiqEhexmdHkOM:APA91bFP6GeQ-Kjzg1Beo1MIaBnrQD4YVpSvEiCjQ73elYN8RPcpoCwU5RD6qOWJvGlVRowwHFI5n1CgoBJlg9vQq274SuzpW8hD49O4vcQPzyeQimM71quKrldH5vqHXWwDDCq9KeKt",
+      "twitterLoggedInIds": {
+        "1022605286": {
+          "dateLoggedIn": "2022-11-08 18:55:47.832480",
+          "delegateTwitterId": "",
+          "twitterId": "1022605286"
+        }
+      }
+    },
+    "qbBFAUMv7DRjvIsCEYj6uMN7hFu2": {
+      "andrtokenid": "efdkzVr6S16aMfEEMqJNJc:APA91bFSyRj6XFT1BfZe2IhHgZB2OMtK-t-zd9TwNIY82h32dCmBVcP8o3zRfS5tfzvsN5Uqi4ZnFb7w3dYaGI6eAxsQUP5VQw_Q726kckyCC-BLjFPr3uiEs7RuM8IiPZnSPLiC-Qa0",
+      "twitterLoggedInIds": {
+        "1585281551667011584": {
+          "dateLoggedIn": "2022-10-26 20:18:13.611074",
+          "delegateTwitterId": "",
+          "twitterId": "1585281551667011584"
+        }
+      }
+    },
+    "rAyCpvVcB5NStEeameWVBvMuRYv1": {
+      "andrtokenid": "dLI21HdlTtK-uEpS9Jz4_l:APA91bG52QeYOB8QpJBTCBjAvS4DG41GmcRxd-Ms4gewDvMNRR38Rq1mIGm3-udftSJf-KSeAhReXPgDP1K3eGnIvM4qkdCMiwwRsG2HDCQcbW13OT_D33jLa8rBrEWdM6UhOopw7yvH"
+    },
+    "rn663qecwmcpqkl0wdVCITj2HRa2": {
+      "andrtokenid": "faZ9uT5gQmOg30bxFPRGUc:APA91bEcY6MSltEKVWw3hD3uR2kf_7nRwRBiDv5cz5H6gKpMKt7Ae8CbxxEwsTxuI5cyHZiA_2kTsAJUMKZu2mSWcpHwLeL7LzPLImqYY9SSwU7w7WAZm9CkCXGMv1wblxhMYt35GHKv",
+      "twitterLoggedInIds": {
+        "1230518195368292352": {
+          "dateLoggedIn": "2022-10-22 18:01:17.287179",
+          "delegateTwitterId": "",
+          "twitterId": "1230518195368292352"
+        }
+      }
+    },
+    "sDRiqoYRcvfKHKXTJp30CPd9udA3": {
+      "andrtokenid": "eZ_-5ADuQXiZZBsy0G_eX6:APA91bEFPuykBqwcw1hiBaLB7eaGjWOrzT1fuMp6L6mI3jR62vFq3VnPttaKTA91kXYNStRlC9tgix3xG6WkDQqhHbchQhjLTCvMX8rdrUBPvkpdW7BGf6ZJxhMkUQKR1YLW81tc_w90",
+      "twitterLoggedInIds": {
+        "1262703217697153024": {
+          "dateLoggedIn": "2022-10-21 09:08:48.821295",
+          "delegateTwitterId": "",
+          "twitterId": "1262703217697153024"
+        }
+      }
+    },
+    "tC5ED3LLxnbsgRNH2Vz4urX67jp1": {
+      "andrtokenid": "dWVy6tMOSV6o_BlzPKu4IN:APA91bG8sHtDJy0eJyviOIBW51MBcHQ2fxrVBzEkPVIZouXnnIWc-W8nd3Eos0aBUZQik3oiR5-l3NhhrD4cwGzBiwRN8Fl4_gIT8A1w_B-k0tH_9WX_h82Y8eZZ0ZWQuxE6KaaZcE6-",
+      "twitterLoggedInIds": {
+        "1583091423842545666": {
+          "dateLoggedIn": "2022-10-20 19:14:27.385877",
+          "delegateTwitterId": "",
+          "twitterId": "1583091423842545666"
+        }
+      }
+    },
+    "tJIhP0rZTVf1u5xTWx553qgpWWC2": {
+      "andrtokenid": "f6h0semHRoimLDoYUd6Lxt:APA91bFfeEc6fhg8OjEGHjnnPIP5RxwzHL7kcI3pq5S_38q5VvjNc7sjat96Oj4mjLAKFoeoWBqEAQEo86xb6VinNa9BePdeQW1jBvcx1LNVYanI4cqunftCx788UWHWvxTb_WdM-ap6",
+      "twitterLoggedInIds": {
+        "877537027994079233": {
+          "dateLoggedIn": "2022-10-26 11:09:11.087381",
+          "delegateTwitterId": "",
+          "twitterId": "877537027994079233"
+        }
+      }
+    },
+    "tN7Eq6eGTCXHMOpFoKA0FG9wPPV2": {
+      "andrtokenid": "cGQU_Cw1QLmErvkEAFjHqd:APA91bG9zV3drRjuEc5KNQcnJqsMAlL0AnCT4dyM3fkwH7ZJuX6x7aO44ZeqLZQVOJJf0dJCz5WHeO7zQjF8nfI-zS-0Y2RfBcMwZC1wMzZgXKhJaVYpCZDHx3cLZfYMY9JZXd7VlpSW",
+      "twitterLoggedInIds": {
+        "968564508624113664": {
+          "dateLoggedIn": "2022-10-26 16:58:59.857602",
+          "delegateTwitterId": "",
+          "twitterId": "968564508624113664"
+        }
+      }
+    },
+    "tUP4DtpXSng633glj0ajFtBeHJM2": {
+      "andrtokenid": "e2iyEmTgQ6GX0KJ8YBxzwk:APA91bFNmcD0gWZgwQfnSIfwi9aocy9I-gK2CK-9GamYou5sV5PHke1NODQuw7C7AhsCGlcfsnmEBHglfqJqc_9WNi3OeGJYkNUZT_LIVNQRhW0Sh_wiMwKKCkKPUyMU0K-smetouCYx",
+      "twitterLoggedInIds": {
+        "1482024109236453376": {
+          "dateLoggedIn": "2022-10-26 17:50:14.608376",
+          "delegateTwitterId": "",
+          "twitterId": "1482024109236453376"
+        }
+      }
+    },
+    "uQlqdPa5l2cwFyWB0AmzQYFVxm72": {
+      "andrtokenid": "cuX3XPYyQ42z4lW-5M4yUH:APA91bHZK6meJnSlwxp1kYo2pynU9ANpPcd1FrnB_zBzfPI277iYb7SxMbwc5cQ0SYXPhq2d05gPPjIQ308HUA_3DFANLZyv2s2N0o_htHeX1My990EEaXQ-1Sm-COwCZ61ExcQJJlJI",
+      "twitterLoggedInIds": {
+        "191757163": {
+          "dateLoggedIn": "2022-10-27 17:46:29.774693",
+          "delegateTwitterId": "",
+          "twitterId": "191757163"
+        }
+      }
+    },
+    "ulVCLSjBnmaEbd7LhYZ6YqlVL4y2": {
+      "andrtokenid": "ed2-w3IYQDqjwK1Gamik8I:APA91bE8zZ1529hXVGP4fey_WG8xq-vssS7a7WxZEi37qXnj0S602mcI6XXhwFY-PbytFWs-TFqyadh1zEAq1PN_GTNbOZryh7NQ-nlc0X2XAj_13uvXwk7TO5aQdPQCgI4eaC4xMGp0",
+      "twitterLoggedInIds": {
+        "1585316060139786240": {
+          "dateLoggedIn": "2022-10-26 22:39:08.556311",
+          "delegateTwitterId": "",
+          "twitterId": "1585316060139786240"
+        }
+      }
+    },
+    "va0xZ1AL9iYf4yz4wBdEctYgY5J2": {
+      "andrtokenid": "fNi-I6b-QQeiy5uuCedGAz:APA91bHm7Denee8igqVrY2jYkkfb6ah4YDEiTa8I0ef9ABJ46ssj9tZleB8SCmQJAjwcIEHld2nCfXXnHd17FzRIfE2d68iJV8NgB0Xxo1tXbLPYEyRSnpUPUvke-JhMpSEsNsbTHtwH",
+      "twitterLoggedInIds": {
+        "1583803377875849216": {
+          "dateLoggedIn": "2022-10-22 18:27:46.424791",
+          "delegateTwitterId": "",
+          "twitterId": "1583803377875849216"
+        }
+      }
+    },
+    "xFzEsWIUHDWydHWoFPEJvA7azY03": {
+      "andrtokenid": "eDk4X48FROaJM6JW_v-wOP:APA91bGm7cNz1g0IVW9rCRvlByE2QGFWXcSRGEuiGd6UTcz2derCb5dp8lPGUxMEj_j5D-KLE5PjesHTWoS_DTjlOsF5mQJZgqwP25xJPUMWoSlaO_KZIbz8vjnQyexBciU5WHmUL_Im",
+      "twitterLoggedInIds": {
+        "1480212164061253634": {
+          "dateLoggedIn": "2022-10-20 23:49:23.299553",
+          "delegateTwitterId": "",
+          "twitterId": "1480212164061253634"
+        }
+      }
+    },
+    "xTyK4LqJsQaF3dd6Gx4VRmmaYcp2": {
+      "andrtokenid": "etFETdjpQVeOX7Ncw3hBQf:APA91bFD1KdX1psf60VCX3NqdcquzMNJLGclyT-4i129GkJ1jfz9x5XNlLrPOI9cz1fp127m5osYPehuC1poF7i7E6HE0CGfhfBD5KkDkg5XRPk29XR_AAl0Vqn8Wm-gC9jEqS_CayOM",
+      "twitterLoggedInIds": {
+        "1585298945881710592": {
+          "dateLoggedIn": "2022-10-26 21:26:29.223238",
+          "delegateTwitterId": "",
+          "twitterId": "1585298945881710592"
+        }
+      }
+    },
+    "y3HooeyDDTMl7jFfMUuXDw7B7zh2": {
+      "andrtokenid": "ckGGCcVvSOeCotMR4hik06:APA91bEN5UgtZJ0C_iKgnqeVeNgWJMOmA8dAVyA4rsld6GCL0zyL2Rg3yFJc3zhmSMX12NW-wu86SDbhrp9ZzVZLESwVaMjZM5FasV_hHFUs3JeJfIc4bBiZzmz6-3C9vkNzsJ8PYZeG"
+    },
+    "zuwPhrqbUXYYEQH6xWrEngLDJDs2": {
+      "andrtokenid": "e0ALttphTa2ZZ-iWt4rTnS:APA91bEhOK07-lTHUuwjAw6oyeR583Tz4um2CIrJA2PAQlCf2JRZbbtUO7-2b0yNTd8VvQ2XNY5jmk7uWxLOBYbit19m8ojGHVQfhChcI_boYW49LcG4pjJBBeyVXqI1-xPNJrg9MHtP",
+      "twitterLoggedInIds": {
+        "1585156488154480641": {
+          "dateLoggedIn": "2022-10-26 12:10:25.938215",
+          "delegateTwitterId": "",
+          "twitterId": "1585156488154480641"
+        }
+      }
+    }
+  },
+  "metaData": {
+    "PlayStoreLink": "https://play.google.com/store/apps/details?id=com.vysion.quickreach",
+    "ReachLink": "https://busymen-f8267.web.app",
+    "ServerEndPoint": "http://146.190.223.30/"
+  }
+}

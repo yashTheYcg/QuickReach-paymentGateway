@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razorpay</title>
+</head>
+<body>
+    <h1 style="text-align:center;">Hello Payment Page</h1>
+    <button id="rzp-button1">Pay</button>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <script>
+        
+    document.getElementById('rzp-button1').onclick = async function (e) {
+        e.preventDefault();
+
+        let response = await fetch("https://us-central1-trainmode-fc310.cloudfunctions.net/testAPI/orders",{
+            method:"POST",
+            headers:{
+                "Content-Type": "application/json",
+            },
+            body:JSON.stringify({
+                "amount": 260,
+                "id": 34197952,
+                "typeOfUser": "TwitterPublishers",
+                "typeOfPlanPurchased": "One Time Monthly Payment"
+            })
+        })
+
+        console.log(response);
+        const orderData = await response.json();
+        console.log(orderData.data);
+
+        
+        var options = {
+            "key": "rzp_test_twGLSZC2XL8KZr", // Enter the Key ID generated from the Dashboard
+            "amount": orderData.data.amount, // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
+            "currency": "INR",
+            "order_id": orderData.data.id, //This is a sample Order ID. Pass the `id` obtained in the response of Step 1,
+            handler: async (response)=>{
+                console.log(response);
+                try {
+                    let verifyPayment = await fetch("https://us-central1-trainmode-fc310.cloudfunctions.net/testAPI/verify", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json",
+                        },
+                        body: JSON.stringify(response)
+                    })
+                    const payment = await verifyPayment.json();
+                    console.log(payment);
+                } catch (error) {
+                    console.log(error);
+                }
+            } 
+        };
+        
+        var rzp1 = new window.Razorpay(options);
+        rzp1.open();
+    }
+    </script>
+</body>
+</html>
