@@ -49,7 +49,7 @@ app.post("/orders", async (req, res) => {
             notes: {
                 id: req.body.id,
                 typeOfUser: req.body.typeOfUser,
-                typeOfPlanPurchased: "One Time Monthly",
+                typeOfPlanPurchased: req.body.typeOfPlanPurchased,
             },
             receipt: crypto.randomBytes(10).toString("hex"),
         };
@@ -103,29 +103,29 @@ app.post("/plans", (req, res) => {
         key_secret: process.env.KEY_SECRET,
     });
 
-    const yearlyPlan = {
-        period: "yearly",
-        interval: 1,
-        item: {
-            name: "Test plan - yearly",
-            amount: 2000000,
-            currency: "INR",
-            description: "Description for the yearly test plan",
-        },
-    };
-
-    // const monthlyPlan = {
-    //     period: "monthly",
+    // const yearlyPlan = {
+    //     period: "yearly",
     //     interval: 1,
     //     item: {
-    //         name: "New-Test plan - Monthly",
-    //         amount: 499900,
+    //         name: "Test plan - yearly",
+    //         amount: 2000000,
     //         currency: "INR",
-    //         description: "Description for the monthly test plan",
+    //         description: "Description for the yearly test plan",
     //     },
     // };
 
-    instance.plans.create(yearlyPlan, (error, plan) => {
+    const monthlyPlan = {
+        period: "monthly",
+        interval: 1,
+        item: {
+            name: "New-Test plan - Monthly",
+            amount: 166600,
+            currency: "INR",
+            description: "Description for the monthly test plan",
+        },
+    };
+
+    instance.plans.create(monthlyPlan, (error, plan) => {
         if (error) {
             console.log(error);
         }
@@ -166,21 +166,32 @@ app.post("/subscriptions", (req, res) => {
 
 // endpoint for OneTimeOrder payments
 app.post("/orderwebhook", async (req, res) => {
+    console.log("Order webhook trigger");
     try {
         const responseData = await eval(req.body);
         // console.log(responseData.payload.order.entity.notes);
         // logic code for searching the user in the quickreach realtimedatabase
         const {id, typeOfUser, typeOfPlanPurchased} = (responseData.payload.order.entity.notes);
         if (id) {
-            console.log("Data Enters in the console");
             const db = await database.ref("QuickReach/"+typeOfUser+"/"+id);
-            db.update(
-                {
-                    "isAllowedToIncreaseReachRetweets": true,
-                    "isPaidToIncreaseReach": true,
-                    "planPurchaseDate": new Date(responseData.created_at).getTime(),
-                    "typeOfPlanPurchased": typeOfPlanPurchased,
-                });
+            const date = new Date();
+            if (typeOfUser === "TwitterPublishers") {
+                db.update(
+                    {
+                        "isAllowedToIncreaseReachRetweets": true,
+                        "isPaidToIncreaseReach": true,
+                        "planPurchaseDate": date,
+                        "typeOfPlanPurchased": typeOfPlanPurchased,
+                    });
+            } else {
+                db.update(
+                    {
+                        "isAllowedAutomaticRetweets": true,
+                        "isPaidForDoingRetweet": true,
+                        "planPurchaseDate": date,
+                        "typeOfPlanPurchased": typeOfPlanPurchased,
+                    });
+            }
             res.status(200).json({message: "Data added in real time database"});
         } else {
             res.status(400).json({message: "Notes not found"});
@@ -192,20 +203,31 @@ app.post("/orderwebhook", async (req, res) => {
 
 // endpoint for subscription payments
 app.post("/subscriptionwebhook", async (req, res) => {
+    console.log("subscription webhook trigger");
     try {
         const responseData = await eval(req.body);
-        // console.log(responseData.payload.subscription.entity.notes);
         // logic code for searching the user in the quickreach realtimedatabase
         const {id, typeOfUser, typeOfPlanPurchased} = (responseData.payload.subscription.entity.notes);
+        const date = new Date();
         if (id) {
             const db = await database.ref("QuickReach/"+typeOfUser+"/"+id);
-            db.update(
-                {
-                    "isAllowedToIncreaseReachRetweets": true,
-                    "isPaidToIncreaseReach": true,
-                    "planPurchaseDate": new Date(responseData.created_at),
-                    "typeOfPlanPurchased": typeOfPlanPurchased,
-                });
+            if (typeOfUser === "TwitterPublishers") {
+                db.update(
+                    {
+                        "isAllowedToIncreaseReachRetweets": true,
+                        "isPaidToIncreaseReach": true,
+                        "planPurchaseDate": date,
+                        "typeOfPlanPurchased": typeOfPlanPurchased,
+                    });
+            } else {
+                db.update(
+                    {
+                        "isAllowedAutomaticRetweets": true,
+                        "isPaidForDoingRetweet": true,
+                        "planPurchaseDate": date,
+                        "typeOfPlanPurchased": typeOfPlanPurchased,
+                    });
+            }
             res.status(200).json({message: "Data added in real time database"});
         } else {
             res.status(400).json({message: "Notes not found"});
